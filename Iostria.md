@@ -1,138 +1,62 @@
-[DD_kartta_pohja](https://github.com/Viljami17/DnD-5E/assets/20128570/824c6aef-918e-4474-abbc-39597cb64a2d)
+
 # 1. Contents
+```toc
+```
+
+# 1 The Gods
 
 
-- [1. Contents](#1-contents)
-	- [1.1. The Gods](#11-the-gods)
-	- [1.2. 1.1 Izotl The god of gods](#12-11-izotl-the-god-of-gods)
-	- [1.3. 1.2 Children of the light](#13-12-children-of-the-light)
-		- [1.3.1. Zodlios, The God of Justice](#131-zodlios-the-god-of-justice)
-		- [1.3.2. Hecataeus, The God of wisdom](#132-hecataeus-the-god-of-wisdom)
-		- [1.3.3. Dhemes The God of madness](#133-dhemes-the-god-of-madness)
-	- [1.4. 1.3 Children of Nature](#14-13-children-of-nature)
-		- [1.4.1. Chisemis, The God of the earth (rocks, ground etc)](#141-chisemis-the-god-of-the-earth-rocks-ground-etc)
-		- [1.4.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)](#142-cephine-the-goddess-of-the-wilderness-forests-swamps-etc)
-		- [1.4.3. Lognar, The God of water and the seas](#143-lognar-the-god-of-water-and-the-seas)
-	- [1.5. 1.4 Children of the dark](#15-14-children-of-the-dark)
-		- [1.5.1. Danir, The God of Desire](#151-danir-the-god-of-desire)
-		- [1.5.2. Adrena, The Goddess of Kindness](#152-adrena-the-goddess-of-kindness)
-		- [1.5.3. Medona, The Goddess of Joy](#153-medona-the-goddess-of-joy)
-- [2. DEATH AND THE GREAT MIST](#2-death-and-the-great-mist)
-- [3. DEMIGODS](#3-demigods)
-	- [3.1. Edward 'The undead' Thorn](#31-edward-the-undead-thorn)
-	- [3.2. The Monstrosities](#32-the-monstrosities)
-		- [3.2.1. Yuan-ti](#321-yuan-ti)
-- [4. LARGE CITIES \& NOTABLE PLACES](#4-large-cities--notable-places)
-	- [4.1. Airedale](#41-airedale)
-	- [4.2. The King](#42-the-king)
-	- [4.3. Stratham](#43-stratham)
-	- [4.4. Claton](#44-claton)
-	- [4.5. Klarth](#45-klarth)
-	- [4.6. Mirfield](#46-mirfield)
-	- [4.7. Everwinter](#47-everwinter)
-	- [4.8. Zoavoarren](#48-zoavoarren)
-	- [4.9. The traveler’s path](#49-the-travelers-path)
-	- [4.10. The phantasmal forest](#410-the-phantasmal-forest)
-	- [4.11. The simmering swamp](#411-the-simmering-swamp)
-	- [4.12. The lost desert](#412-the-lost-desert)
-	- [4.13. The tribal valley](#413-the-tribal-valley)
-	- [4.14. The fishermans bay](#414-the-fishermans-bay)
-- [5. Races](#5-races)
-	- [5.1. Human](#51-human)
-	- [5.2. Hollow one](#52-hollow-one)
-	- [5.3. Ashen one](#53-ashen-one)
-		- [5.3.1. Traits](#531-traits)
-		- [5.3.2. Age](#532-age)
-		- [5.3.3. List of abilities available for Ashen ones depending on character class:](#533-list-of-abilities-available-for-ashen-ones-depending-on-character-class)
-	- [5.4. Tiefling of Iostria](#54-tiefling-of-iostria)
-	- [5.5. Dragonborn](#55-dragonborn)
-	- [5.6. Bugbear](#56-bugbear)
-	- [5.7. Dwarf](#57-dwarf)
-	- [5.8. Elf](#58-elf)
-	- [5.9. Firbolg](#59-firbolg)
-	- [5.10. Gnome](#510-gnome)
-	- [5.11. Goblin](#511-goblin)
-	- [5.12. Half-elf](#512-half-elf)
-	- [5.13. Half-orc](#513-half-orc)
-	- [5.14. Halfling](#514-halfling)
-	- [5.15. Kenku](#515-kenku)
-	- [5.16. Tabaxi](#516-tabaxi)
-	- [5.17. Tortle](#517-tortle)
-	- [5.18. Lol testi](#518-lol-testi)
-- [6. Monsters](#6-monsters)
-	- [6.1. Werewolf](#61-werewolf)
-	- [6.2. Wolf](#62-wolf)
-	- [6.3. Orc](#63-orc)
-- [7. Mechanics](#7-mechanics)
-	- [7.1. Body decaying](#71-body-decaying)
-	- [7.2. Drain](#72-drain)
-- [8. Magic Items](#8-magic-items)
-- [9. Custom Classes](#9-custom-classes)
-	- [9.1. Elemental Fighter (5e Class)](#91-elemental-fighter-5e-class)
-		- [9.1.1. 1 Elemental Fighter](#911-1-elemental-fighter)
-		- [9.1.2. 1.1 Creating an Elemental Fighter](#912-11-creating-an-elemental-fighter)
-			- [9.1.2.1. Quick Build](#9121-quick-build)
-		- [9.1.3. 1.2 Class Features](#913-12-class-features)
-			- [9.1.3.1. Hit Points](#9131-hit-points)
-			- [9.1.3.2. Proficiencies](#9132-proficiencies)
-			- [9.1.3.3. Equipment](#9133-equipment)
-			- [9.1.3.4. Elemental Affinity](#9134-elemental-affinity)
-
-
-## 1.1. The Gods
-[Back to Top](#contents) 
-
-## 1.2. 1.1 Izotl The god of gods
+## 1.1 Izotl The god of gods
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently died leaving his seat as the supreme god.
 
-## 1.3. 1.2 Children of the light
+## 1.2 Children of the light
 
-### 1.3.1. Zodlios, The God of Justice 
+### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
 Worshipped by the king and is the god of the great kingdom based in Airedale.  
 Holy symbol is the sun held over on the tip of a sword
 
-### 1.3.2. Hecataeus, The God of wisdom
+### 1.2.2. Hecataeus, The God of wisdom
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl
 
-### 1.3.3. Dhemes The God of madness 
+### 1.2.3. Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters  
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers  
 Holy symbol is a celtic kraken
 
 
 
-## 1.4. 1.3 Children of Nature
+## 1.3 Children of Nature
 
 
-### 1.4.1. Chisemis, The God of the earth (rocks, ground etc)
+### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)
 Other names: Father earth  
 worshipped by the dwarves, rock gnomes and the people of klarth  
 Holy symbol is a shield that has a mountain  drawn on it
 
-### 1.4.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)
+### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)
 Other names: Mother nature Goddess of harvest  
 worshipped by the wood elves, tree gnomes and the people within The phantasmal forest  
 Holy symbol is a scythe and a stack of hay
 
-### 1.4.3. Lognar, The God of water and the seas
+### 1.3.3. Lognar, The God of water and the seas
 Other names: Master of the sea  
 worshipped by sailors and fishermen.  
 Holy symbol is a Trident
 
 
-## 1.5. 1.4 Children of the dark 
+## 1.4 Children of the dark 
 
-### 1.5.1. Danir, The God of Desire
+### 1.4.1. Danir, The God of Desire
 Other names:  The god of envy, The god of greed  
 Worshipped by the people of Everwinter and Mirfield  
 Holy symbol is a dagger with fancy inlays and jewels
 
-### 1.5.2. Adrena, The Goddess of Kindness
+### 1.4.2. Adrena, The Goddess of Kindness
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
@@ -144,7 +68,7 @@ Main codes of conduct;
 	- Too much of anything is a way to corruption so do not desire what you don’t need  
 	- It is the duty of the strong to protect those weaker then themselves  
 
-### 1.5.3. Medona, The Goddess of Joy
+### 1.4.3. Medona, The Goddess of Joy
 Other names: The goddess of alcohol, goddess of art  
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice
@@ -152,7 +76,6 @@ Holy symbol is a bottle pouring wine into a chalice
 
 
 # 2. DEATH AND THE GREAT MIST	
-[Back to Top](#contents)
 
 
 
@@ -186,7 +109,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 # 3. DEMIGODS
-[Back to Top](#contents)
+
 
 ## 3.1. Edward 'The undead' Thorn
 
@@ -211,26 +134,10 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
 # 4. LARGE CITIES & NOTABLE PLACES
-[Back to Top](#contents)
-
-[Airedale](#airedale)  
-[The King](#king)  
-[Stratham](#stratham)  
-[Barataria Bay](#barataria)  
-[Claton](#claton)  
-[Klarth](#klarth)  
-[Everwinter](#everwinter)  
-[Zoavoarren](#zoavoarren)  
-[The traveler's path](#travelerspath)  
-[The phantasmal forest](#phantasmal)  
-[The simmering swamp](#swamp)  
-[The lost desert](#desert)  
-[The tribal valley](#tribalvalley)  
-[The fishermans bay](#fishersbay)  
 
 
 ## 4.1. Airedale
-[Back to cities](#cities)
+
 
 Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
 
@@ -255,7 +162,7 @@ Airedales and the whole kingdom's official religion is to the light pantheon of 
 
 
 ## 4.2. The King
-[Back to cities](#cities)
+
 
 The kingdom was ruled by the old King Artorias V, who was a wise and mostly peaceful ruler. The royal family consisted of King Artorias, Queen Priscilla and their son Prince Artorias VI. When the prince was only four years old the Queen became severely ill and after six months of struggle died of her illness. After a while the King got remarried to Queen Sylvia, and had a second son Prince Oceiros. Things were mostly good and the two Princes grew up together. Prince Artorias grew up a fierce warrior who had the respect of the people and of his father the king. Prince Oceiros grew up living in the shadow of his older half-brother and slowly got tired of his brother always getting all the attention and he started to despise him. People called Artorias the future king and this only helped fuel Oceiros’s  secret hatred for him. The Queen also secretly hated Prince Artorias as he was first in line for the throne but she wanted her son to take the throne instead. 
 
@@ -267,83 +174,8 @@ Currently King Oceiros has ruled the kingdom for around a year with his mother S
 After Prince Artorias and the men few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
 
 
-- [1. Contents](#1-contents)
-	- [1.1. The Gods](#11-the-gods)
-	- [1.2. 1.1 Izotl The god of gods](#12-11-izotl-the-god-of-gods)
-	- [1.3. 1.2 Children of the light](#13-12-children-of-the-light)
-		- [1.3.1. Zodlios, The God of Justice](#131-zodlios-the-god-of-justice)
-		- [1.3.2. Hecataeus, The God of wisdom](#132-hecataeus-the-god-of-wisdom)
-		- [1.3.3. Dhemes The God of madness](#133-dhemes-the-god-of-madness)
-	- [1.4. 1.3 Children of Nature](#14-13-children-of-nature)
-		- [1.4.1. Chisemis, The God of the earth (rocks, ground etc)](#141-chisemis-the-god-of-the-earth-rocks-ground-etc)
-		- [1.4.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)](#142-cephine-the-goddess-of-the-wilderness-forests-swamps-etc)
-		- [1.4.3. Lognar, The God of water and the seas](#143-lognar-the-god-of-water-and-the-seas)
-	- [1.5. 1.4 Children of the dark](#15-14-children-of-the-dark)
-		- [1.5.1. Danir, The God of Desire](#151-danir-the-god-of-desire)
-		- [1.5.2. Adrena, The Goddess of Kindness](#152-adrena-the-goddess-of-kindness)
-		- [1.5.3. Medona, The Goddess of Joy](#153-medona-the-goddess-of-joy)
-- [2. DEATH AND THE GREAT MIST](#2-death-and-the-great-mist)
-- [3. DEMIGODS](#3-demigods)
-	- [3.1. Edward 'The undead' Thorn](#31-edward-the-undead-thorn)
-	- [3.2. The Monstrosities](#32-the-monstrosities)
-		- [3.2.1. Yuan-ti](#321-yuan-ti)
-- [4. LARGE CITIES \& NOTABLE PLACES](#4-large-cities--notable-places)
-	- [4.1. Airedale](#41-airedale)
-	- [4.2. The King](#42-the-king)
-	- [4.3. Stratham](#43-stratham)
-	- [4.4. Claton](#44-claton)
-	- [4.5. Klarth](#45-klarth)
-	- [4.6. Mirfield](#46-mirfield)
-	- [4.7. Everwinter](#47-everwinter)
-	- [4.8. Zoavoarren](#48-zoavoarren)
-	- [4.9. The traveler’s path](#49-the-travelers-path)
-	- [4.10. The phantasmal forest](#410-the-phantasmal-forest)
-	- [4.11. The simmering swamp](#411-the-simmering-swamp)
-	- [4.12. The lost desert](#412-the-lost-desert)
-	- [4.13. The tribal valley](#413-the-tribal-valley)
-	- [4.14. The fishermans bay](#414-the-fishermans-bay)
-- [5. Races](#5-races)
-	- [5.1. Human](#51-human)
-	- [5.2. Hollow one](#52-hollow-one)
-	- [5.3. Ashen one](#53-ashen-one)
-		- [5.3.1. Traits](#531-traits)
-		- [5.3.2. Age](#532-age)
-		- [5.3.3. List of abilities available for Ashen ones depending on character class:](#533-list-of-abilities-available-for-ashen-ones-depending-on-character-class)
-	- [5.4. Tiefling of Iostria](#54-tiefling-of-iostria)
-	- [5.5. Dragonborn](#55-dragonborn)
-	- [5.6. Bugbear](#56-bugbear)
-	- [5.7. Dwarf](#57-dwarf)
-	- [5.8. Elf](#58-elf)
-	- [5.9. Firbolg](#59-firbolg)
-	- [5.10. Gnome](#510-gnome)
-	- [5.11. Goblin](#511-goblin)
-	- [5.12. Half-elf](#512-half-elf)
-	- [5.13. Half-orc](#513-half-orc)
-	- [5.14. Halfling](#514-halfling)
-	- [5.15. Kenku](#515-kenku)
-	- [5.16. Tabaxi](#516-tabaxi)
-	- [5.17. Tortle](#517-tortle)
-	- [5.18. Lol testi](#518-lol-testi)
-- [6. Monsters](#6-monsters)
-	- [6.1. Werewolf](#61-werewolf)
-	- [6.2. Wolf](#62-wolf)
-	- [6.3. Orc](#63-orc)
-- [7. Mechanics](#7-mechanics)
-	- [7.1. Body decaying](#71-body-decaying)
-	- [7.2. Drain](#72-drain)
-- [8. Magic Items](#8-magic-items)
-- [9. Custom Classes](#9-custom-classes)
-	- [9.1. Elemental Fighter (5e Class)](#91-elemental-fighter-5e-class)
-		- [9.1.1. 1 Elemental Fighter](#911-1-elemental-fighter)
-		- [9.1.2. 1.1 Creating an Elemental Fighter](#912-11-creating-an-elemental-fighter)
-			- [9.1.2.1. Quick Build](#9121-quick-build)
-		- [9.1.3. 1.2 Class Features](#913-12-class-features)
-			- [9.1.3.1. Hit Points](#9131-hit-points)
-			- [9.1.3.2. Proficiencies](#9132-proficiencies)
-			- [9.1.3.3. Equipment](#9133-equipment)
-			- [9.1.3.4. Elemental Affinity](#9134-elemental-affinity)
 ## 4.3. Stratham
-[Back to cities](#cities)
+
 
 Population:
 9 000
@@ -383,7 +215,7 @@ There is no official town guard or police force, since it’s more of a place of
  Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
 
 ## 4.4. Claton
-[Back to cities](#cities)
+
 
 Is the Kingdom's trade centre and it consists of many towns and villages built around a central city that is a hub for trade. Claton is under the Kingdom's direct command and follows laws set by the Kingdom and pay’s taxes to the Kingdom. Because of this the city guards are a part of the Kingdom's army and there are many garrisons of soldiers in and around Claton.
 
@@ -401,7 +233,7 @@ Everything basic and less basic can be bought from the numerous shops and stalls
 
 
 ## 4.5. Klarth
-[Back to cities](#cities)
+
 
 Is an ancient city built by dwarves millenia ago. It’s located in northern central Iostria just beyond The tribal valley. Klarth was originally built as a dwarven fortress during ancient times and so half of the city has been carved into the mountainside. Klarth is famous across all the continents for their master smithing work, they forge the best equipment in iostria built from one of the most sought after materials: Dragonium. 
 
@@ -415,7 +247,7 @@ Getting into Klarth itself is another problem if you even manage to get there. T
 
 
 ## 4.6. Mirfield
-[Back to cities](#cities)
+
 
 Is the single largest trading post in all of Iostria. Around 11 000 people live within Mirfield and thousands more in the smaller towns around it.
 
@@ -431,7 +263,7 @@ The council rules from the top floor of the largest building in the center of Mi
 
 
 ## 4.7. Everwinter
-[Back to cities](#cities)
+
 
 This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources.
 
@@ -442,13 +274,13 @@ Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs,
 <a name="zoavoarren"/>
 
 ## 4.8. Zoavoarren
-[Back to cities](#cities)
+
 
 City of dragonborn, hidden from everything inside the mountains of the island of the dragons. The mountains hide around 1,300 dragonborn and their ancient civilization runs on the very foundation of our world, magma. The Mountains hide a lot of Dragonium, the rarest metal in the continent.
 
 
 ## 4.9. The traveler’s path
-[Back to cities](#cities)
+
 
 Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.  
 
@@ -456,7 +288,7 @@ Today the path is the busiest trading route in Iostria with many merchants trave
 
 
 ## 4.10. The phantasmal forest
-[Back to cities](#cities)
+
 
 Is the largest single forest in Iostria, located just north-east of Claton. It's the home to many small villages and even some towns lay hidden in the trees, most of them are “normal” settlements with travelers and merchants visiting the inns and trading with the locals. But some of the villages deep within the woods have no contact with the outside world. They live off the forest eating the many edible plants and the berries or by hunting some of the many animals in the forest.  
 
@@ -471,7 +303,7 @@ Legend says, that there lies hidden portal to another plane of existence, somewh
 
 
 ## 4.11. The simmering swamp
-[Back to cities](#cities)
+
 
 Located in a volcanically active part of  Iostria the simmering swamp lies in between the lost desert and the mountains north of Barataria Bay.
 
@@ -479,13 +311,13 @@ Located in a volcanically active part of  Iostria the simmering swamp lies in be
 
 
 ## 4.12. The lost desert 
-[Back to cities](#cities)
+
 
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
 
 ## 4.13. The tribal valley
-[Back to cities](#cities)
+
 
 Is a giant valley in central Iostria that stands before the entrance to Klarth. Most of Iostria’s orcs, giants, goblins and barbarian clans live there, thus most people steer clear of it. 
 
@@ -493,7 +325,7 @@ Many armies have tried to conquer the tribal valley, all of them have failed. Ma
 
 
 ## 4.14. The fishermans bay
-[Back to cities](#cities)
+
 
 Is the bay area located south-west of Claton. It is the most sea life rich place in Iostria. Thus there are numerous towns and villages along the shoreline that live off fishing in these waters.
 
@@ -503,8 +335,6 @@ It is legend that the reason for the abnormally large amount of fish in these wa
 
 
 # 5. Races
-[Back to Top](#contents)
-
 
 
 ## 5.1. Human
@@ -539,12 +369,12 @@ Black/purple like demonic appearance
 Horns  
 skin emits ash  
 Ages normally, but Ashen one can live up to 860 years old.  
-1d4 + 1d20 makes the colour of Ashen one  
+*1d4 + 1d20* makes the colour of Ashen one  
 Black  
 Black-Purple  
 Purple  
 Gray  
-d20 is added to let the player decide how much purple will be in black-purple Ashen one
+*d20* is added to let the player decide how much purple will be in black-purple Ashen one
 	If rolled natural 20 ⇒ Red Ashen one
 
 
@@ -563,44 +393,45 @@ _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see
 
 ### 5.3.3. List of abilities available for Ashen ones depending on character class:
 
-- Barbarian
+#### Barbarian
 _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
 
-- Bard
+#### Bard
 _**Tales of Ash.**_ You have seen what comes after death and you know the horror one is faced when they die. As a bonus action you whisper tales of the afterlife and the despair that it holds to a creature that can hear you and they have to make a wisdom save against your charisma, should they fail they will have disadvantage on their next roll of any kind. Tales of Ash uses one bardic inspiration slot.
 
-- Cleric
-  - If you are a cleric of **Death**.  
-  - If you are a cleric of the **Gods**. _**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
+#### Cleric
+##### If you are a cleric of **Death**.  
+##### If you are a cleric of the **Gods**. 
+_**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
 
 
-- Druid
+#### Druid
 _**From Ash You Were Born…**_ As an action you commune with nature and target a creature that is downed or has been dead for less than 10 minutes and turn their body into ash. Heal a party member for (x)d4+10, where x is your level. This ability can be used twice per long rest
 
-- Fighter
+#### Fighter
 _**Rip & Tear.**_ As a bonus action you draw strength from Death itself and give yourself  haste. Haste is cast as a concentration spell so any time you take damage roll either a strength or a dexterity saving throw DC 14 if you fail you lose haste and can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This ability can be used once per long rest.
 
-- Monk
+#### Monk
 _**One with Death.**_ You meditate on your death and all the experiences that have come after, you feel like you are at peace with death, and you feel this isn’t their time. As an action grant protection from death to one of your party members (the next time they would go down they will instead remain at 1hp). This ability will last 2 rounds. One with Death can be used once per week.
 
-- Paladin
+#### Paladin
 _**Death’s chain.**_ As an action, Attach a faint aetherial chain to an enemy you see within 30ft, the linked enemy cannot go 45ft. from you. Link redirects 50% of dmg done to you to the linked enemy. Lasts 2 rounds. 2 stacks, that cannot be active simultaneously. Also there must be at least 1hr between links. Charges recharges when offering lvl/2 x 1d4 hp upon longrest.
 
-- Ranger
+#### Ranger
 _**Death’s scent.**_ As a bonus action, you can attach death’s scent to anything you touch (can be transferred to target on arrows or weapons). When the target is under this, they cannot conceal themselves from you (You can attack without disadvantage even when the target is hiding). If the target escapes from you, you can track it without additional ability rolls even through difficult terrain or weather. Effect lasts 2 days. Can be used once between rests.
 
-- Rogue
+#### Rogue
 
 
-- Sorcerer
+#### Sorcerer
 _**You are no match.**_ As a sorcerer you have gained unfathomable strength. You have danced with death and you lived to tell the tale. These weak creatures aren’t worth your time nor effort. As an action choose up to three targets that you can see with less than (Your maxHP/2)  they must make a successful constitution save against your spell dc, should they fail their bodies will be incinerated into ash (Their HP will be reduced to 0). This ability can be used once per long rest
 
-- Warlock
+#### Warlock
 
-- Wizard
+#### Wizard
 As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x 1d6 hp from target enemy. Any overhealing, you can distribute to one (1) nearby target within 15ft.
 
-- Blood hunter
+#### Blood hunter
 
 
 ## 5.4. Tiefling of Iostria
@@ -655,7 +486,7 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 
 
 # 6. Monsters
-[Back to Top](#contents)
+
 
 ## 6.1. Werewolf
 
@@ -665,7 +496,7 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 
 
 # 7. Mechanics
-[Back to Top](#contents)
+
 
 ## 7.1. Body decaying
 Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the result of the dice is the %) each day. You can restore a body if it remains 10% intact. 
@@ -676,10 +507,8 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 
 
 # 8. Magic Items
-[Back to Top](#contents)
 
 # 9. Custom Classes
-[Back to Top](#contents)
 
 ## 9.1. Elemental Fighter (5e Class)
 
