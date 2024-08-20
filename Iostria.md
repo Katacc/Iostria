@@ -1,11 +1,11 @@
 
-# 1. Contents
+# Contents
 
 ```table-of-contents
 ```
 
-- [1. Contents](#1-contents)
-	- [1.1. The Gods](#11-the-gods)
+- [Contents](#contents)
+	- [1 The Gods](#1-the-gods)
 	- [1.2. 1.1 Izotl The god of gods](#12-11-izotl-the-god-of-gods)
 	- [1.3. 1.2 Children of the light](#13-12-children-of-the-light)
 		- [1.3.1. Zodlios, The God of Justice](#131-zodlios-the-god-of-justice)
