@@ -5,7 +5,7 @@
 ```
 
 - [Contents](#contents)
-		- [1 The Gods](#1-the-gods)
+	- [1 The Gods](#1-the-gods)
 		- [1.1 Izotl The god of gods](#11-izotl-the-god-of-gods)
 		- [1.2 Children of the light](#12-children-of-the-light)
 			- [1.2.1. Zodlios, The God of Justice](#121-zodlios-the-god-of-justice)
