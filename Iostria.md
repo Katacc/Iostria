@@ -1,6 +1,7 @@
 
 # 1. Contents
-```toc
+
+```table-of-contents
 ```
 
 # 1 The Gods
