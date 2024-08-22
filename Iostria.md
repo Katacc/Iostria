@@ -105,8 +105,7 @@ Causing a sort of cold war between the lower gods. These gods are now making all
 
 ### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
-Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.
-
+Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.	
 Holy symbol is the sun held over on the tip of a sword.
 He is one of the frontrunners among the gods to attain Izotls old position as a supreme deity.
 
