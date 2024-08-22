@@ -74,6 +74,8 @@
 		- [7.3 Marshall clash](#73-marshall-clash)
 		- [7.4 Healing potions](#74-healing-potions)
 	- [8. Magic Items](#8-magic-items)
+		- [8.1 Sword of revenance](#81-sword-of-revenance)
+		- [8.2 Longbow of the fallen](#82-longbow-of-the-fallen)
 	- [9. Battles and politics](#9-battles-and-politics)
 		- [9.1 Control of the Traveler's path](#91-control-of-the-traveler's-path)
 	- [12. Custom Classes](#12-custom-classes)
@@ -638,6 +640,26 @@ You have 2 options for using healing potions in combat
 
 # 8. Magic Items
 [Contents](#contents)
+
+## 8.1 Sword of revenance
+A black longsword-greatsword hybrid, uses the stat sheet of a longsword+1
+
+Description:
+A long, black blade made of unknown material, the hilt is ornate and longer than typical longsword. The guard has a blue gemstone embedded and the guard wraps around the handle like thorns. The long blade emits dim blue light and has a something written in it. Nobody has been able to translate the meaning and the language is unknown. Said to reside in the mountains of Everwinter
+
+The sword acts as a +1 longsword with special ability:
+_**Revenant glory**_  the sword has 3 charges that charge during the night, if under the moonlight. You may use charges up to 3 on a attack performed with a sword. The stacks need to be used before the attack is rolled. - Add +1 to attack roll per stack. Allso deal 1d4 per stack extra damage and heal yourself the same amount
+
+## 8.2 Longbow of the fallen
+Old, ornate longbow. Shares statsheet of +1 longbow
+
+Description:
+Wooden longbow made of oak. The bow is so old that the text and ornating has allready faded a bit and there is strips of cloth hanging from it. The ends of the bow is recurved and has a green stick in the tops.
+
+The bow acts as a +1 longbow and has a special ability:
+_**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, igniting your arrow with divine radiance. Your bow grows angel wings and you feel your like someone is helping you draw the bowstring. Add +5 to your next attack action with the bow. Deal 1d6 extra radiant damage and *mark* your target.
+
+Marked enemies can be seen through a wall.
 
 # 9. Battles and politics
 [Contents](#contents)
