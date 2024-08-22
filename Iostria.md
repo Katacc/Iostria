@@ -96,25 +96,30 @@
 ## 1.1 Izotl The god of gods
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
-He ruled Iostria for millennia but has recently died leaving his seat as the supreme god.
+He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.
+
 
 ## 1.2 Children of the light
 [Contents](#contents)
 
 ### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
-Worshipped by the king and is the god of the great kingdom based in Airedale.  
+Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there. 
 Holy symbol is the sun held over on the tip of a sword
+He is one of the frontrunners among the gods to attain Izotls old position as a supreme deity.
 
 ### 1.2.2. Hecataeus, The God of wisdom
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl
+Most of his worshippers and the main temple of Hecateus are located in Stratham.
 
 ### 1.2.3. Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters  
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers  
 Holy symbol is a celtic kraken
+People driven to the brink of their sanity are said to start hearing wispers and voices in their head, this is Dhemes taking advantage of mentally unstable beings to do his bidding.
+The exact location of his main temple is not known, but it is said to be located somewhere in the desert surrounding Stratham.
 
 
 
@@ -124,17 +129,22 @@ Holy symbol is a celtic kraken
 ### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)
 Other names: Father earth  
 worshipped by the dwarves, rock gnomes and the people of klarth  
-Holy symbol is a shield that has a mountain drawn on it
+Holy symbol is a shield with a picture of a mountain.
+Main temple is located deep inside a mountain, accesible from Klarth.
+
 
 ### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)
 Other names: Mother nature, Goddess of harvest  
-worshipped by the wood elves, tree gnomes and the people within The phantasmal forest  
+worshipped by the wood elves, tree gnomes and the people within The Phantasmal forest and the Simmering swamp.
 Holy symbol is a scythe and a stack of hay
+Her main temples location is also somewhat a mystery, but it is known that it lies somewhere deep within the Phantasmal forest.
+
 
 ### 1.3.3. Lognar, The God of water and the seas
 Other names: Master of the sea  
 worshipped by sailors and fishermen.
 Holy symbol is a Trident
+His main temple is located on an island near the shores of Barataria bay.
 
 
 ## 1.4 Children of the dark
@@ -142,8 +152,9 @@ Holy symbol is a Trident
 
 ### 1.4.1. Danir, The God of Desire
 Other names:  The god of envy, The god of greed  
-Worshipped by the people of Everwinter and Mirfield  
+Mainly worshipped by people that place themselves infront of others, as such most of his followers are Merchants, criminals and others seeking power through wealth.  
 Holy symbol is a dagger with fancy inlays and jewels
+Main temple lies within the city of Mirfield.
 
 ### 1.4.2. Adrena, The Goddess of Kindness
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
@@ -156,11 +167,13 @@ Main codes of conduct;
 	- Violence is the last option  
 	- Too much of anything is a way to corruption so do not desire what you don’t need  
 	- It is the duty of the strong to protect those weaker then themselves  
+Main temple is located within the walls of Everwinter
 
 ### 1.4.3. Medona, The Goddess of Joy
 Other names: The goddess of alcohol, goddess of art  
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice
+Main temple is located in Mirfield.
 
 
 
