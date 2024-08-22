@@ -657,9 +657,9 @@ Description:
 Wooden longbow made of oak. The bow is so old that the text and ornating has allready faded a bit and there is strips of cloth hanging from it. The ends of the bow is recurved and has a green stick in the tops.
 
 The bow acts as a +1 longbow and has a special ability:
-_**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, igniting your arrow with divine radiance. Your bow grows angel wings and you feel your like someone is helping you draw the bowstring. Add +5 to your next attack action with the bow. Deal 1d6 extra radiant damage and *mark* your target.
+_**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, igniting your arrow with divine radiance. Your bow grows angel wings and you feel your like someone is helping you draw the bowstring. Add +5 to your next attack action to hit with the bow and deal *1d6* extra radiant damage and *mark* your target.
 
-Marked enemies can be seen through a wall.
+Marked enemies can be seen through a wall the effect lasts 2 rounds.
 
 # 9. Battles and politics
 [Contents](#contents)
