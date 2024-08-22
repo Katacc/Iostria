@@ -134,7 +134,7 @@ Worshipped by those who are obsessed with the acquisition of knowledge to the po
 Holy symbol is a celtic kraken
 People driven to the brink of their sanity are said to start hearing wispers and voices in their head, this is Dhemes taking advantage of mentally unstable beings to do his bidding.
 The exact location of his main temple is not known, but it is said to be located somewhere in the desert surrounding Stratham.
-
+ 
 Main codes of conduct;  
 	- No such thing as forbidden knowlegde
  	- Nothing should be treated as an absolute not even death.
