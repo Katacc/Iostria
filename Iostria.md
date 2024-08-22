@@ -42,6 +42,7 @@
 		- [4.12. The lost desert](#412-the-lost-desert)
 		- [4.13. The tribal valley](#413-the-tribal-valley)
 		- [4.14. The fishermans bay](#414-the-fishermans-bay)
+		- [4.15. Barataria Bay](415-barataria-bay)
 	- [5. Races](#5-races)
 		- [5.1. Human](#51-human)
 		- [5.2. Hollow one](#52-hollow-one)
@@ -51,7 +52,7 @@
 			- [5.3.3. List of abilities available for Ashen ones depending on character class:](#533-list-of-abilities-available-for-ashen-ones-depending-on-character-class)
 		- [5.4. Tiefling of Iostria](#54-tiefling-of-iostria)
 		- [5.5. Dragonborn](#55-dragonborn)
-		- [5.6. Bugbear](#56-bugbear)
+		- [5.6. Warforged](#56-warforged)
 		- [5.7. Dwarf](#57-dwarf)
 		- [5.8. Elf](#58-elf)
 		- [5.9. Firbolg](#59-firbolg)
@@ -63,7 +64,6 @@
 		- [5.15. Kenku](#515-kenku)
 		- [5.16. Tabaxi](#516-tabaxi)
 		- [5.17. Tortle](#517-tortle)
-		- [5.18. Lol testi](#518-lol-testi)
 	- [6. Monsters](#6-monsters)
 		- [6.1. Werewolf](#61-werewolf)
 		- [6.2. Wolf](#62-wolf)
@@ -71,17 +71,21 @@
 	- [7. Mechanics](#7-mechanics)
 		- [7.1. Body decaying](#71-body-decaying)
 		- [7.2. Drain](#72-drain)
+		- [7.3 Marshall clash](73-marshall-clash)
+		- [7.4 Healing potions](74-healing-potions)
 	- [8. Magic Items](#8-magic-items)
-	- [9. Custom Classes](#9-custom-classes)
-		- [9.1. Elemental Fighter (5e Class)](#91-elemental-fighter-5e-class)
-			- [9.1.1. 1 Elemental Fighter](#911-1-elemental-fighter)
-			- [9.1.2. 1.1 Creating an Elemental Fighter](#912-11-creating-an-elemental-fighter)
-				- [9.1.2.1. Quick Build](#9121-quick-build)
-			- [9.1.3. 1.2 Class Features](#913-12-class-features)
-				- [9.1.3.1. Hit Points](#9131-hit-points)
-				- [9.1.3.2. Proficiencies](#9132-proficiencies)
-				- [9.1.3.3. Equipment](#9133-equipment)
-				- [9.1.3.4. Elemental Affinity](#9134-elemental-affinity)
+	- [9. Battles and politics](#9-battles-and-politics)
+		- [9.1 Control of the Traveler's path](91-control-of-the-traveler's-path)
+	- [12. Custom Classes](#12-custom-classes)
+		- [12.1. Elemental Fighter (5e Class)](#121-elemental-fighter-5e-class)
+			- [12.1.1. Elemental Fighter](#1211-elemental-fighter)
+			- [12.1.2. Creating an Elemental Fighter](#1212-creating-an-elemental-fighter)
+				- [12.1.2.1. Quick Build](#12121-quick-build)
+			- [12.1.3. Class Features](#1213-class-features)
+				- [12.1.3.1. Hit Points](#12131-hit-points)
+				- [12.1.3.2. Proficiencies](#12132-proficiencies)
+				- [12.1.3.3. Equipment](#12133-equipment)
+				- [12.1.3.4. Elemental Affinity](#12134-elemental-affinity)
 
 # 1 The Gods
 
@@ -116,16 +120,16 @@ Holy symbol is a celtic kraken
 ### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)
 Other names: Father earth  
 worshipped by the dwarves, rock gnomes and the people of klarth  
-Holy symbol is a shield that has a mountain  drawn on it
+Holy symbol is a shield that has a mountain drawn on it
 
 ### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)
-Other names: Mother nature Goddess of harvest  
+Other names: Mother nature, Goddess of harvest  
 worshipped by the wood elves, tree gnomes and the people within The phantasmal forest  
 Holy symbol is a scythe and a stack of hay
 
 ### 1.3.3. Lognar, The God of water and the seas
 Other names: Master of the sea  
-worshipped by sailors and fishermen.  
+worshipped by sailors and fishermen.
 Holy symbol is a Trident
 
 
@@ -281,18 +285,7 @@ Consists of multiple floors of different kinds of experimenting zones, classroom
 
 The road to Stratham isn’t the easiest. If  you wish to travel to Stratham the only real way is to take one of the many river boats and travel to the edge of the desert. But the hardship doesn't end there. Along the long desert roads there are monsters lurking on the road, trying to survive in the heat of the desert, as well as scammers and robbers trying to get rich, and of course the sandstorms induced by the strong desert winds are easy to get lost in.
 
-## Barataria Bay
-Barataria Bay is not recognized by the kingdom of Airedale as an official city, but rather as a rebel camp of pirates and outlaws, but in reality it is far from it. Barataria Bay is a collection of large towns and villages with a population of around 9000. It is a semi “lawless place” ruled by a council of democratically elected pirate lords who set the laws and collect taxes.
 
-
-There is no limit to how long a person can sit on the council, but whenever a respected member of the community feels that someone on the council is unworthy of the seat they can challenge them to a re-election, where in everyone who is eligible to vote does so, and the winner gets the seat on the council that runs Barataria Bay. Everyone who owns a ship or a business in Barataria Bay has a voting right. 
-
-
-Barataria Bay is the most diverse place in Iostria since creatures from all walks of life find themselves there for many different reasons. It’s population is 15% human, 15% tortle, 10% dwarf, 10% gnomes, 5% halfling, 5% elf, 5% tabaxi, 3% kenku, 2% tiefling, and the rest 30% of all the other races in Iostria. 
-
-There is no official town guard or police force, since it’s more of a place of passersby, merchants and pirates. But don’t think it’s a place where you can do as you please, while it is true that certain laws are a bit more loose in Barataria Bay the laws set by the council are heavily enforced by everyone that lives there, also pretty much everyone here is armed and knows how to fight with a few exceptions of merchants and other folk.
-
- Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
 
 ## 4.4. Claton
 
@@ -323,7 +316,7 @@ Inside the mountain itself the city has been constructed to dwarven dimensions s
 
 Nearly all of Klarth’s economy is based on the export of weapons, armor and other equipment. Though it is well known that the already high price of Klarth forged steel is brought even higher by the fact that the only trading routes to Klarth are either through The tribal valley or by sailing all around Iostria and risking pirates. Both extremely risky and dangerous, but there is a lot of coin to be made, so some merchants still take their chances.
 
-Getting into Klarth itself is another problem if you even manage to get there. The city is walled off and the entrances are guarded by the royal dwarf army. To get into the city you must have a good reason or a merchants pass. All  illegal contraband is seized at the city’s gate, and you are also searched when leaving the city. Once you are inside the city walls Klarth is mostly an accepting place for travellers and merchants. There are even many inns and taverns built for human sized creatures. Getting into the inner city located in the mountainside is nearly impossible if you don’t live there or have an invitation from someone that does. Security at the inner gates is even tighter and civilians aren’t allowed to bring weapons inside the inner city.
+Getting into Klarth itself is another problem if you even manage to get there. The city is walled off and the entrances are guarded by the royal dwarf army. To get into the city you must have a good reason or a merchants pass. All illegal contraband is seized at the city’s gate, and you are also searched when leaving the city. Once you are inside the city walls Klarth is mostly an accepting place for travellers and merchants. There are even many inns and taverns built for human sized creatures. Getting into the inner city located in the mountainside is nearly impossible if you don’t live there or have an invitation from someone that does. Security at the inner gates is even tighter and civilians aren’t allowed to bring weapons inside the inner city.
 
 
 ## 4.6. Mirfield
@@ -351,12 +344,13 @@ The mountains around Everwinter are the most ore rich ground that has been found
 
 Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
-<a name="zoavoarren"/>
 
 ## 4.8. Zoavoarren
 
 
 City of dragonborn, hidden from everything inside the mountains of the island of the dragons. The mountains hide around 1,300 dragonborn and their ancient civilization runs on the very foundation of our world, magma. The Mountains hide a lot of Dragonium, the rarest metal in the continent.
+
+The depths of the mountais hides a massive portal between worlds, The portal to **underworld**. A magical barrier splits the over- and underworld and can be clearly seen through. The barriers keeps visitors away from both of the dimensions, but some beings have found a way to go through. One of the heroe's of the overworld, Wrarith, came thought the portal to save the world from a calamity.
 
 
 ## 4.9. The traveler’s path
@@ -365,6 +359,8 @@ City of dragonborn, hidden from everything inside the mountains of the island of
 Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.  
 
 Today the path is the busiest trading route in Iostria with many merchants traveling to and from all the major cities and towns. 
+
+Some cities fights for the control of the route.
 
 
 ## 4.10. The phantasmal forest
@@ -375,11 +371,10 @@ Is the largest single forest in Iostria, located just north-east of Claton. It's
 Many races hail from the phantasmal forest such as the Tabaxi, the Firbolgs, the wood elves, and the forest gnomes. Its total population is unknown but at least some thousands of creatures live there. 
 
 A large problem in recent years has been that groups of bandits that hide in the trees in  the forest ambush lone travelers and merchants that walk on the Traveler’s path.
-(possible future campaign?)
 
 The phantasmal forest is said to be a magical place with many forest druids practicing their magic there, it's also said to be the home of the first mist walkers.
 
-Legend says, that there lies hidden portal to another plane of existence, somewhere deep within Phantasmal Forest
+> Legend says, that there lies hidden portal to another plane of existence, somewhere deep within Phantasmal Forest
 
 
 ## 4.11. The simmering swamp
@@ -414,11 +409,27 @@ Most of the fishermen in these towns travel to Claton to sell their catch. These
 It is legend that the reason for the abnormally large amount of fish in these waters is that the remains of one of the sea monstrosities slain by Edward 'The undead' Thorn are located somewhere in the depths of the bay, and all of the sea life thrives either by eating the remains itself, or by hunting the smaller fish that do. This story is unconfirmed however and so it is unknown if it is the actual reason for the rich sea life in the area.
 
 
+## 4.15. Barataria Bay
+
+
+Barataria Bay is not recognized by the kingdom of Airedale as an official city, but rather as a rebel camp of pirates and outlaws, but in reality it is far from it. Barataria Bay is a collection of large towns and villages with a population of around 9000. It is a semi “lawless place” ruled by a council of democratically elected pirate lords who set the laws and collect taxes.
+
+
+There is no limit to how long a person can sit on the council, but whenever a respected member of the community feels that someone on the council is unworthy of the seat they can challenge them to a re-election, where in everyone who is eligible to vote does so, and the winner gets the seat on the council that runs Barataria Bay. Everyone who owns a ship or a business in Barataria Bay has a voting right. 
+
+
+Barataria Bay is the most diverse place in Iostria since creatures from all walks of life find themselves there for many different reasons. It’s population is 15% human, 15% tortle, 10% dwarf, 10% gnomes, 5% halfling, 5% elf, 5% tabaxi, 3% kenku, 2% tiefling, and the rest 30% of all the other races in Iostria. 
+
+There is no official town guard or police force, since it’s more of a place of passersby, merchants and pirates. But don’t think it’s a place where you can do as you please, while it is true that certain laws are a bit more loose in Barataria Bay the laws set by the council are heavily enforced by everyone that lives there, also pretty much everyone here is armed and knows how to fight with a few exceptions of merchants and other folk.
+
+ Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
+ 
+ 
 # 5. Races
 
 
 ## 5.1. Human
-Humans are the most common race in Iostria being about (prosenttimäärä) of the total population. They can be found in most parts of the continent with a few exceptions.
+Humans are the most common race in Iostria being about 40% of the total population. They can be found in most parts of the continent with a few exceptions.
 
 
 ## 5.2. Hollow one
@@ -439,7 +450,7 @@ _**Revenance.**_ You retain your creature type, yet you register as undead to sp
 
 _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
-(Credits to Matthew Mercer)
+
 ## 5.3. Ashen one 
 An Ashen one is a soul freed from Death's realm that had no body to go to so it manifested itself as a demonic figure, largely recembelling the appearance of a hollow one but more complete and not shadowy.
 
@@ -450,14 +461,12 @@ Horns
 skin emits ash  
 Ages normally, but Ashen one can live up to 860 years old.  
 *1d4 + 1d20* makes the colour of Ashen one  
-Black  
-Black-Purple  
-Purple  
-Gray  
+1. Black  
+2. Black-Purple  (*+ 1d20*)
+3. Purple  
+4. Gray  
 *d20* is added to let the player decide how much purple will be in black-purple Ashen one
 	If rolled natural 20 ⇒ Red Ashen one
-
-
 
 
 Overrides your current race. Your stats and knowledge does not change. Ashen One isn’t necessarily Undead, but will be counted as an undead when casting spells against Ashen one (Inspiration can be sacrificed to negate Undead status against one (1) spell or effect).
@@ -481,6 +490,7 @@ _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within
 
 - Cleric
 	- If you are a cleric of **Death**.  
+		- _**Death us apart.**_ You have made a pact with the Death. Once per week, you can see the way a target creature dies. This does come with consequences. If you try to alter the death of the creature, death will claim something from you... (DM Chooses). You canno't tell anybody of the future of any creature you check. "As you begin to utter the words, you feel death grasp your breath away and torment you untill you stop speaking. Nobody can hear you at this time" .
 	
 	- If you are a cleric of the **Gods**. 
 		_**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
@@ -490,10 +500,10 @@ _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within
 _**From Ash You Were Born…**_ As an action you commune with nature and target a creature that is downed or has been dead for less than 10 minutes and turn their body into ash. Heal a party member for (x)d4+10, where x is your level. This ability can be used twice per long rest
 
 - Fighter
-_**Rip & Tear.**_ As a bonus action you draw strength from Death itself and give yourself  haste. Haste is cast as a concentration spell so any time you take damage roll either a strength or a dexterity saving throw DC 14 if you fail you lose haste and can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This ability can be used once per long rest.
+_**Rip & Tear.**_ As a bonus action you draw strength from Death itself and give yourself haste. Haste is cast as a concentration spell so any time you take damage roll either a strength or a *dexterity* saving throw *DC 14* if you fail you lose haste and can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This ability can be used once per long rest.
 
 - Monk
-_**One with Death.**_ You meditate on your death and all the experiences that have come after, you feel like you are at peace with death, and you feel this isn’t their time. As an action grant protection from death to one of your party members (the next time they would go down they will instead remain at 1hp). This ability will last 2 rounds. One with Death can be used once per week.
+_**One with Death.**_ You meditate on your death and all the experiences that have come after, you feel like you are at peace with death, and you feel this isn’t their time. As an action grant protection from death to one of your party members (the next time they would go down they will instead remain at *1hp*). This ability will last *2 rounds*. One with Death can be used once per week.
 
 - Paladin
 _**Death’s chain.**_ As an action, Attach a faint aetherial chain to an enemy you see within 30ft, the linked enemy cannot go 45ft. from you. Link redirects 50% of dmg done to you to the linked enemy. Lasts 2 rounds. 2 stacks, that cannot be active simultaneously. Also there must be at least 1hr between links. Charges recharges when offering lvl/2 x 1d4 hp upon longrest.
@@ -510,7 +520,7 @@ _**You are no match.**_ As a sorcerer you have gained unfathomable strength. You
 - Warlock
 
 - Wizard
-As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x 1d6 hp from target enemy. Any overhealing, you can distribute to one (1) nearby target within 15ft.
+_**Unholy heal**._ As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x 1d6 hp from target enemy. Any overhealing, you can distribute to one (1) nearby target within 15ft.
 
 - Blood hunter
 
@@ -527,7 +537,8 @@ Shares the stats and traits with Tiefling.
 Big, standing, Dragon-like creatures, Born from original dragons, Resides on an isolated island called Zoavoarren. They live deep inside the volcanoes, harnessing the power of lava. 
 
 
-## 5.6. Bugbear
+## 5.6. Warforged
+Warforged come's from a neighbouring continent and are pretty rare in Iostria. Some old warforged have retired from battling and put up shops and offer services to other warforged.
 
 
 ## 5.7. Dwarf
@@ -563,8 +574,6 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 ## 5.17. Tortle
 
 
-## 5.18. Lol testi
-
 
 # 6. Monsters
 
@@ -585,43 +594,57 @@ Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the resul
 ## 7.2. Drain
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
+## 7.3 Marshall clash
+During your attack action, after hitting the target, you may challenge the target to a clash, where both combatants gather all their strenght into one blow and try to down each other. Both comabatants roll *1D20* without any modifiers. If tied, the attack has no effect. The losing combatant takes permanent damage(debuff) while taking increased amount of damage. This scales with the difference between the dices, were larger difference equals to more damage and more severe after effects. 
+
+You may for example, disable boss abilities or take away enemies body parts. This may happen to you too if you lose.
+
+## 7.4 Healing potions
+You have 2 options for using healing potions in combat
+1. Take a full action and heal the maximum amount the potion can heal
+2. Chug the potion fast using bonus action. Roll healing normally.
 
 
 # 8. Magic Items
 
-# 9. Custom Classes
+# 9. Battles and politics
 
-## 9.1. Elemental Fighter (5e Class)
+## 9.1 Control of the Traveler's path
+The biggest political fight over territory in Iostria. For decades, Airedale have been trying to get taxation on the whole traveler's path, and Everwinter has been trying to allso get hold of the northern part of the path wich has led to many wars between the cities. Nowadays the direct battling has ceased, but there is still assasinations and tries to destroy the other one by other means. Mirfield has gotten some backslash bc it resides in the middle of the battle
 
-Contents  
 
-### 9.1.1. 1 Elemental Fighter
+# 12. Custom Classes
+
+## 12.1. Elemental Fighter (5e Class)
+
+
+### 12.1.1. Elemental Fighter
 Elemental fighters are warriors capable of channeling the power of the elemental planes to enhance their own martial abilities, engulfing weapons in primordial energy and unleashing them onto their opponents.
 
 The training of Elemental Fighters require an adept understanding of the elements and have a firm grasp on controlling them. Most users and their elements are linked, since each elemental discipline utilities the strengths of different parts of the body more than others and a different personality, leading some to be more tuned to certain elements than other.
 
-### 9.1.2. 1.1 Creating an Elemental Fighter
+### 12.1.2. Creating an Elemental Fighter
 When creating your elemental fighter, ask yourself how did you developed your ability to control the elements. Have you been touched by an elemental plane and have the power of controlling it tied to your lineage, or is your ability the result of years of study and training to find the connection to the elemental planes?
 
-#### 9.1.2.1. Quick Build
+#### 12.1.2.1. Quick Build
 You can make an Elemental Fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution and Charisma, to enhance the power of some of your class features. Second, choose the Hermit background.
 
-### 9.1.3. 1.2 Class Features
+### 12.1.3. Class Features
 As a Elemental Fighter you gain the following class features.
 
-#### 9.1.3.1. Hit Points
+#### 12.1.3.1. Hit Points
 Hit Dice: 1d8 per Elemental Fighter level
 Hit Points at 1st Level: 8 + Constitution modifier
 Hit Points at Higher Levels: 1d8 (or 5) + Constitution modifier per Elemental Fighter level after 1st
 
-#### 9.1.3.2. Proficiencies
+#### 12.1.3.2. Proficiencies
 Armor: Light armor, medium armor
 Weapons: All melee weapons
 Tools: None
 Saving Throws: Strength, Dexterity
 Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
-#### 9.1.3.3. Equipment
+#### 12.1.3.3. Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 (a) Breastplate or (b) Studded leather
@@ -656,7 +679,7 @@ Starting at 1st level, you must choose the planar circle from were you draw your
 
 Your choice grants you features at 1st, 3rd, 6th, 10th, 14th and 18th levels.
 
-#### 9.1.3.4. Elemental Affinity
+#### 12.1.3.4. Elemental Affinity
 Each circle have a specific elemental affinity attached to it. These are the following:
 
 Fire: fire damage
