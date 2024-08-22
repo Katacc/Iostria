@@ -97,7 +97,6 @@
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. 
-
 Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.
 
 
@@ -107,9 +106,7 @@ Causing a sort of cold war between the lower gods. These gods are now making all
 ### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
 Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there. 
-
 Holy symbol is the sun held over on the tip of a sword.
-
 He is one of the frontrunners among the gods to attain Izotls old position as a supreme deity.
 
 ### 1.2.2. Hecataeus, The God of wisdom
