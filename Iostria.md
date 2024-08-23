@@ -105,92 +105,92 @@ Causing a sort of cold war between the lower gods. These gods are now making all
 
 ### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
-Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.	
-Holy symbol is the sun held over on the tip of a sword.
-He is one of the frontrunners among the gods to attain Izotls old position as a supreme deity.
+Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.  
+Holy symbol is the sun held over on the tip of a sword.  
+He is one of the frontrunners among the gods to attain Izotls old position as a supreme deity.  
 
 Main codes of conduct;  
-	- The law is absolute.
-	- You don't get a second chance, once a criminal allways a criminal.
-	- Be wary of strangers, don't trust people of other faiths.
-	- Strenght through law & order.
- 	- Creatures with no laws or gods should be treated as subhuman.
+	- The law is absolute.  
+	- You don't get a second chance, once a criminal allways a criminal.  
+	- Be wary of strangers, don't trust people of other faiths.  
+	- Strenght through law & order.  
+ 	- Creatures with no laws or gods should be treated as subhuman.  
 
 ### 1.2.2. Hecataeus, The God of wisdom
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
-Holy symbol is an owl
-Most of his worshippers and the main temple of Hecateus are located in Stratham.
+Holy symbol is an owl  
+Most of his worshippers and the main temple of Hecateus are located in Stratham.  
 
 Main codes of conduct;  
-	- Strive for enlightenment through academics.
- 	- We exist within the boundaries of nature, as such those boundaries should be respected.
-  	- Some things are beyond the understanding of mortals, such things lead a mortal mind to corruption.
-   	- Respect other creatures cultures and their faith. 
+	- Strive for enlightenment through academics.  
+ 	- We exist within the boundaries of nature, as such those boundaries should be respected.  
+  	- Some things are beyond the understanding of mortals, such things lead a mortal mind to corruption.  
+   	- Respect other creatures cultures and their faith.   
 
 ### 1.2.3. Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters  
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers  
-Holy symbol is a celtic kraken
-People driven to the brink of their sanity are said to start hearing wispers and voices in their head, this is Dhemes taking advantage of mentally unstable beings to do his bidding.
-The exact location of his main temple is not known, but it is said to be located somewhere in the desert surrounding Stratham.
+Holy symbol is a celtic kraken  
+People driven to the brink of their sanity are said to start hearing wispers and voices in their head, this is Dhemes taking advantage of mentally unstable beings to do his bidding.  
+The exact location of his main temple is not known, but it is said to be located somewhere in the desert surrounding Stratham.  
  
 Main codes of conduct;  
-	- No such thing as forbidden knowlegde
- 	- Nothing should be treated as an absolute not even death.
-  	- The natural state of the world is chaos, as such strive to create chaos where ever possible.
-   	- Organized civilication is the death of free thinking.
+	- No such thing as forbidden knowlegde  
+ 	- Nothing should be treated as an absolute not even death.  
+  	- The natural state of the world is chaos, as such strive to create chaos where ever possible.  
+   	- Organized civilication is the death of free thinking.  
 
 ## 1.3 Children of Nature
 [Contents](#contents)
 
-### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)
+### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)  
 Other names: Father earth  
 worshipped by the dwarves, rock gnomes and the people of klarth  
-Holy symbol is a shield with a picture of a mountain.
-Main temple is located deep inside a mountain, accesible from Klarth.
+Holy symbol is a shield with a picture of a mountain.  
+Main temple is located deep inside a mountain, accesible from Klarth.  
 
 Main codes of conduct;  
-	-...
+	-...  
 
-### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)
+### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)  
 Other names: Mother nature, Goddess of harvest  
-worshipped by the wood elves, tree gnomes and the people within The Phantasmal forest and the Simmering swamp.
-Holy symbol is a scythe and a stack of hay
-Her main temples location is also somewhat a mystery, but it is known that it lies somewhere deep within the Phantasmal forest.
+worshipped by the wood elves, tree gnomes and the people within The Phantasmal forest and the Simmering swamp.  
+Holy symbol is a scythe and a stack of hay  
+Her main temples location is also somewhat a mystery, but it is known that it lies somewhere deep within the Phantasmal forest.  
 
 Main codes of conduct;  
-	- All things can exist together in harmony
+	- All things can exist together in harmony  
 
-### 1.3.3. Lognar, The God of water and the seas
+### 1.3.3. Lognar, The God of water and the seas  
 Other names: Master of the sea  
-worshipped by sailors and fishermen.
-Holy symbol is a Trident
-His main temple is located on an island near the shores of Barataria bay.
+worshipped by sailors and fishermen.  
+Holy symbol is a Trident  
+His main temple is located on an island near the shores of Barataria bay.  
 
 Main codes of conduct;  
-	-...
+	-...  
 
 ## 1.4 Children of the dark
 [Contents](#contents)
 
-### 1.4.1. Danir, The God of Desire
+### 1.4.1. Danir, The God of Desire  
 Other names:  The god of envy, The god of greed  
 Mainly worshipped by people that place themselves infront of others, as such most of his followers are Merchants, criminals and others seeking power through wealth.  
-Holy symbol is a dagger with fancy inlays and jewels
-Main temple lies within the city of Mirfield.
+Holy symbol is a dagger with fancy inlays and jewels  
+Main temple lies within the city of Mirfield.  
 
 Main codes of conduct;  
-	- Allways place your own needs above others.
- 	- Gold is power.
-  	- Promises & honor mean nothing if you are dead.
-   	- Don't give people the opportunity to betray you.
+	- Allways place your own needs above others.  
+ 	- Gold is power.  
+  	- Promises & honor mean nothing if you are dead.  
+   	- Don't give people the opportunity to betray you.  
 
 ### 1.4.2. Adrena, The Goddess of Kindness
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
-Main temple is located within the walls of Everwinter
+Main temple is located within the walls of Everwinter  
 
 Main codes of conduct;  
 	- Never turn your back on someone in need of help  
@@ -203,13 +203,13 @@ Main codes of conduct;
 ### 1.4.3. Medona, The Goddess of Joy
 Other names: The goddess of alcohol, goddess of art  
 Worshipped by most bards, drunks and other performers  
-Holy symbol is a bottle pouring wine into a chalice
-Main temple is located in Mirfield.
+Holy symbol is a bottle pouring wine into a chalice  
+Main temple is located in Mirfield.  
 
 Main codes of conduct;  
-	- Follow your instincts & do whatever you feel like.
- 	- The show must allways go on.
-  	- Life is better when you are a bit tipsy.
+	- Follow your instincts & do whatever you feel like.  
+ 	- The show must allways go on.  
+  	- Life is better when you are a bit tipsy.  
 
 
 # 2. DEATH AND THE GREAT MIST	
