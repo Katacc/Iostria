@@ -4,9 +4,6 @@
 
 # Contents
 
-```table-of-contents
-```
-
 - [Contents](#contents)
 	- [1 The Gods](#1-the-gods)
 		- [1.1 Izotl The god of gods](#11-izotl-the-god-of-gods)
@@ -711,7 +708,7 @@ _**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, ig
 
 Marked enemies can be seen through a wall the effect lasts 2 rounds.
 
-## 8.2 Crusader modular maul
+## 8.3 Crusader modular maul
 **Damage:** *2d6* bludgeonin  
 **Property:** Heavy, two-handed  
 **weight:** 40 lbs.  
