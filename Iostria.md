@@ -620,18 +620,19 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 
 Warforged come's from a neighbouring continent and are pretty rare in Iostria. Some old warforged have retired from battling and put up shops and offer services to other warforged.
 
-Some warforged smiths has acquired the rank of master of arms. They can sell and install modules for warforged armoury.
-## 5.7. Dwarf
+Some warforged smiths has acquired the rank of **master of arms**. They can sell and install modules for warforged armoury.
 
+## 5.7. Dwarf
+Dwarves mostly live in the Klarth, but lot of drawes has come to trading cities.
 
 ## 5.8. Elf
-
+Most elves lives in the forest right of Claton
 
 ## 5.9. Firbolg
 
 
 ## 5.10. Gnome
-
+Gnomes lives in vast majority of places depending on their subrace.
 
 ## 5.11. Goblin
 
