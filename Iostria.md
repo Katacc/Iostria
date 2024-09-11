@@ -714,22 +714,23 @@ Marked enemies can be seen through a wall the effect lasts 2 rounds.
 ## 8.2 Crusader modular maul
 **Damage:** *2d6* bludgeonin  
 **Property:** Heavy, two-handed  
-**weight:** 40 lbs.
+**weight:** 40 lbs.  
+**Magic item:** +1  
 
 Mechanical, made by warforged master (master of arms). +1 maul. Modular maul that can be upgraded with modules made by master warforged smiths. Installing one requires a visit to a master of arms.
 
-**Max charges:** *3* charges
-**Regain:** *1d3* charges at dawn
+**Max charges:** *3* charges  
+**Regain:** *1d3* charges at dawn  
 
 **Base model:**
 Has a impact head and a small jet engine.
 
-**Slash:** As an action, expand one charge.
-You swing your maul sideways with the help of the jet engine.
+**Slash:** As an action, expand one charge.  
+You swing your maul sideways with the help of the jet engine.  
 each creature in a 5ft cone in front of you takes *1d6 impact damage*.
 
-**Uppercut:** As an action, expand one charge.
-You swing your maul upwards with the help of the jet engine.
+**Uppercut:** As an action, expand one charge.  
+You swing your maul upwards with the help of the jet engine.  
 Target creature within 5 feet of you, takes *2d8 impact damage* and has to succeed a constitution 13 save throw. Failing save stuns the target for one round.
 
 # 9. Battles and politics
