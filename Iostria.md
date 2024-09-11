@@ -720,7 +720,7 @@ Mechanical, made by warforged master (master of arms). +1 maul. Modular maul tha
 **Regain:** *1d3* charges at dawn  
 
 **Base model:**
-Has a impact head and a small jet engine.
+Has a impact head and a small jet engine.  
 
 **Slash:** As an action, expand one charge.  
 You swing your maul sideways with the help of the jet engine.  
@@ -729,6 +729,20 @@ each creature in a 5ft cone in front of you takes *1d6 impact damage*.
 **Uppercut:** As an action, expand one charge.  
 You swing your maul upwards with the help of the jet engine.  
 Target creature within 5 feet of you, takes *2d8 impact damage* and has to succeed a constitution 13 save throw. Failing save stuns the target for one round.
+
+### 8.3.1 Maul modules
+
+#### 8.3.1.1 Heads
+**Slasher head:** A scythe like blade for your maul, turn the damage type into slashing  
+**Spear head:** A spear head, turns your damage type into piercing  
+**Molten core:** Changes your head to molten core. changes your melee attack damage to *1d6*. Additionally: You may attack from range. *Attacks hurl a arc made of molten lava towards and enemy*
+
+**Ranged stats:**
+**Range:** 50ft.
+**Damage:** *2d4* magic, single target
+Cannot do ranged attack to a target on melee range
+
+#### 8.3.1.2 Engines
 
 # 9. Battles and politics
 [Contents](#contents)
