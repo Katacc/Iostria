@@ -76,6 +76,7 @@
 	- [8. Magic Items](#8-magic-items)
 		- [8.1 Sword of revenance](#81-sword-of-revenance)
 		- [8.2 Longbow of the fallen](#82-longbow-of-the-fallen)
+		- [8.3 Crusader modular  maul](#83-crusader-modular-maul)
 	- [9. Battles and politics](#9-battles-and-politics)
 		- [9.1 Control of the Traveler's path](#91-control-of-the-traveler's-path)
 	- [12. Custom Classes](#12-custom-classes)
@@ -619,7 +620,7 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 
 Warforged come's from a neighbouring continent and are pretty rare in Iostria. Some old warforged have retired from battling and put up shops and offer services to other warforged.
 
-
+Some warforged smiths has acquired the rank of master of arms. They can sell and install modules for warforged armoury.
 ## 5.7. Dwarf
 
 
@@ -708,6 +709,27 @@ The bow acts as a +1 longbow and has a special ability:
 _**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, igniting your arrow with divine radiance. Your bow grows angel wings and you feel your like someone is helping you draw the bowstring. Add +5 to your next attack action to hit with the bow and deal *1d6* extra radiant damage and *mark* your target.
 
 Marked enemies can be seen through a wall the effect lasts 2 rounds.
+
+## 8.2 Crusader modular maul
+**Damage:** *2d6* bludgeonin  
+**Property:** Heavy, two-handed  
+**weight:** 40 lbs.
+
+Mechanical, made by warforged master (master of arms). +1 maul. Modular maul that can be upgraded with modules made by master warforged smiths. Installing one requires a visit to a master of arms.
+
+**Max charges:** *3* charges
+**Regain:** *1d3* charges at dawn
+
+**Base model:**
+Has a impact head and a small jet engine.
+
+**Slash:** As an action, expand one charge.
+You swing your maul sideways with the help of the jet engine.
+each creature in a 5ft cone in front of you takes *1d6 impact damage*.
+
+**Uppercut:** As an action, expand one charge.
+You swing your maul upwards with the help of the jet engine.
+Target creature within 5 feet of you, takes *2d8 impact damage* and has to succeed a constitution 13 save throw. Failing save stuns the target for one round.
 
 # 9. Battles and politics
 [Contents](#contents)
