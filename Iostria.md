@@ -8,7 +8,7 @@
 
 
 ## 1 The Gods
-<hr>
+<hr style="margin-top: -2px;">
 
 [Contents](#Contents)
 
@@ -131,7 +131,9 @@ Main codes of conduct;
   	- Life is better when you are a bit tipsy.  
 
 
-## 2 DEATH AND THE GREAT MIST	
+## 2 DEATH AND THE GREAT MIST
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 
@@ -166,6 +168,8 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 ## 3 DEMIGODS
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 
@@ -192,6 +196,8 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
 ## 4 LARGE CITIES & NOTABLE PLACES
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 
@@ -416,6 +422,8 @@ There is no official town guard or police force, since it’s more of a place of
  
  
 ## 5 Races
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 
@@ -575,6 +583,8 @@ Gnomes lives in vast majority of places depending on their subrace.
 
 
 ## 6 Monsters
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 
@@ -586,6 +596,8 @@ Gnomes lives in vast majority of places depending on their subrace.
 
 
 ## 7 Mechanics
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 
@@ -607,6 +619,8 @@ You have 2 options for using healing potions in combat
 
 
 ## 8 Magic Items
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
 ### Sword of revenance
@@ -683,5 +697,7 @@ The biggest political fight over territory in Iostria. For decades, Airedale hav
 
 
 ## 12 Custom Classes
+<hr style="margin-top: -2px;">
+
 [Contents](#Contents)
 
