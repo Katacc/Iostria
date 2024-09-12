@@ -130,7 +130,7 @@ Main codes of conduct;
   	- Life is better when you are a bit tipsy.  
 
 
-## 2. DEATH AND THE GREAT MIST	
+## 2 DEATH AND THE GREAT MIST	
 [Contents](#Contents)
 
 
@@ -164,7 +164,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 
-## 3. DEMIGODS
+## 3 DEMIGODS
 [Contents](#Contents)
 
 
@@ -190,7 +190,7 @@ These tribes bring sacrifices to the serpent's lair to keep his hunger in check,
 Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
-## 4. LARGE CITIES & NOTABLE PLACES
+## 4 LARGE CITIES & NOTABLE PLACES
 [Contents](#Contents)
 
 
