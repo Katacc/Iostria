@@ -8,6 +8,7 @@
 
 
 ## 1 The Gods
+<hr>
 
 [Contents](#Contents)
 
@@ -673,6 +674,8 @@ Cannot do ranged attack to a target on melee range
 
 
 ## 9 Battles and politics
+<hr>
+
 [Contents](#Contents)
 
 ### Control of the Traveler's path
