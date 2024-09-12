@@ -733,6 +733,7 @@ Target creature within 5 feet of you, takes *2d8 impact damage* and has to succe
 ### 8.3.1 Maul modules
 
 #### 8.3.1.1 Heads
+**Impact head:** Base head, turn the damage into impact.
 **Slasher head:** A scythe like blade for your maul, turn the damage type into slashing  
 **Spear head:** A spear head, turns your damage type into piercing  
 **Molten core:** Changes your head to molten core. changes your melee attack damage to *1d6*. Additionally: You may attack from range. *Attacks hurl a arc made of molten lava towards and enemy*
@@ -743,6 +744,13 @@ Target creature within 5 feet of you, takes *2d8 impact damage* and has to succe
 Cannot do ranged attack to a target on melee range
 
 #### 8.3.1.2 Engines
+
+**Small jet engine:** Base engine, capable of assisting swings with the maul.
+
+**Medium jet engine:** Capable of providing more thrust, you can now attack twice with half of the damage on the second swing.
+
+**High-powered jet engine:** Allows your maul to thrust you forward and perform an high impact attack.
+
 
 # 9. Battles and politics
 [Contents](#contents)
