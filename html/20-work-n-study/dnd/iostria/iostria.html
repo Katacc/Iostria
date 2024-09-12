@@ -327,12 +327,17 @@ Custom Classes
 </span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div>
 <sciprt>
 document.addEventListener('DOMContentLoaded', function() {
-    document.body.addEventListener('click', function(e) {
-        // Check if the clicked element is a link with a hash
-        if (e.target.tagName === 'A' && e.target.hash) {
+    // Get all links in the table of contents
+    const tocLinks = document.querySelectorAll('.toc a');
+
+    tocLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
             e.preventDefault(); // Prevent default link behavior
+
+            // Extract the target ID from the href
+            const targetId = this.getAttribute('href').split('#')[1];
             
-            const targetId = e.target.hash.substring(1); // Remove the # from the hash
+            // Find the target element
             const targetElement = document.getElementById(targetId);
             
             if (targetElement) {
@@ -343,10 +348,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
                 
                 // Update the URL without triggering a page reload
-                history.pushState(null, null, e.target.hash);
+                history.pushState(null, null, `#${targetId}`);
             }
-        }
+        });
     });
 });
+
 </script>
 </body></html>

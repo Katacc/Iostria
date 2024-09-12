@@ -7,5 +7,36 @@
 
         <title>Iostria</title>
     </head>
-    <body></body>
+    <body>
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                // Get all links in the table of contents
+                const tocLinks = document.querySelectorAll(".toc a");
+
+                tocLinks.forEach((link) => {
+                    link.addEventListener("click", function (e) {
+                        e.preventDefault(); // Prevent default link behavior
+
+                        // Extract the target ID from the href
+                        const targetId =
+                            this.getAttribute("href").split("#")[1];
+
+                        // Find the target element
+                        const targetElement = document.getElementById(targetId);
+
+                        if (targetElement) {
+                            // Scroll to the target element
+                            targetElement.scrollIntoView({
+                                behavior: "smooth",
+                                block: "start",
+                            });
+
+                            // Update the URL without triggering a page reload
+                            history.pushState(null, null, `#${targetId}`);
+                        }
+                    });
+                });
+            });
+        </script>
+    </body>
 </html>
