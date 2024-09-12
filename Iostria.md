@@ -5,6 +5,7 @@
 # Contents
 
 
+
 - [Contents](#contents)
 	- [1 The Gods](#1-the-gods)
 		- [1.1 Izotl The god of gods](#11-izotl-the-god-of-gods)
@@ -87,6 +88,7 @@
 				- [12.1.3.2. Proficiencies](#12132-proficiencies)
 				- [12.1.3.3. Equipment](#12133-equipment)
 				- [12.1.3.4. Elemental Affinity](#12134-elemental-affinity)
+
 
 # 1 The Gods
 [Contents](#contents)
