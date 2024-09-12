@@ -8,8 +8,8 @@
 
 
 # 1 The Gods
-[Contents](#contents)
 
+[Contents](#Contents)
 
 ## 1.1 Izotl The god of gods
 other names: The one above all, The creator  
