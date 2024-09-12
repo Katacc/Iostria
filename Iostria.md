@@ -11,7 +11,7 @@
 
 [Contents](#Contents)
 
-### 1.1 Izotl The god of gods
+### 1-1 Izotl The god of gods
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. 
@@ -414,7 +414,7 @@ There is no official town guard or police force, since it’s more of a place of
  Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
  
  
-## 5. Races
+## 5 Races
 [Contents](#Contents)
 
 
@@ -573,7 +573,7 @@ Gnomes lives in vast majority of places depending on their subrace.
 
 
 
-## 6. Monsters
+## 6 Monsters
 [Contents](#Contents)
 
 
@@ -584,7 +584,7 @@ Gnomes lives in vast majority of places depending on their subrace.
 ### 6.3. Orc
 
 
-## 7. Mechanics
+## 7 Mechanics
 [Contents](#Contents)
 
 
@@ -605,7 +605,7 @@ You have 2 options for using healing potions in combat
 2. Chug the potion fast using bonus action. Roll healing normally.
 
 
-## 8. Magic Items
+## 8 Magic Items
 [Contents](#Contents)
 
 ### 8.1 Sword of revenance
@@ -672,13 +672,13 @@ Cannot do ranged attack to a target on melee range
 **High-powered jet engine:** Allows your maul to thrust you forward and perform an high impact attack.
 
 
-## 9. Battles and politics
+## 9 Battles and politics
 [Contents](#Contents)
 
 ### 9.1 Control of the Traveler's path
 The biggest political fight over territory in Iostria. For decades, Airedale have been trying to get taxation on the whole traveler's path, and Everwinter has been trying to allso get hold of the northern part of the path wich has led to many wars between the cities. Nowadays the direct battling has ceased, but there is still assasinations and tries to destroy the other one by other means. Mirfield has gotten some backslash bc it resides in the middle of the battle
 
 
-## 12. Custom Classes
+## 12 Custom Classes
 [Contents](#Contents)
 
