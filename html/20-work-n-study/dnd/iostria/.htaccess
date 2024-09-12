@@ -17,5 +17,11 @@ AddType application/javascript .js
     Header set Expires 0
 </FilesMatch>
 
+<Files *.html>
+    ForceType text/html
+    Header set Content-Type "text/html; charset=UTF-8"
+    Header set Content-Disposition "inline"
+</Files>
+
 # Enable CORS for all resources
 Header set Access-Control-Allow-Origin "*"
