@@ -324,4 +324,29 @@ Magic Items
 Battles and politics
 </span></div></a><div class="tree-item-children nav-folder-children"><div class="tree-item" data-depth="3"><a class="tree-link" href="20-work-n-study\dnd\iostria\iostria.html#9.1_Control_of_the_Traveler's_path"><div class="tree-item-contents heading-link" heading-name="9.1 Control of the Traveler's path"><span class="tree-item-title el-p" data-tag-name="p">9.1 Control of the Traveler's path</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div><div class="tree-item" data-depth="2"><a class="tree-link" href="20-work-n-study\dnd\iostria\iostria.html#12._Custom_Classes"><div class="tree-item-contents heading-link" heading-name="12. Custom Classes"><span class="tree-item-title el-ol" data-tag-name="ol">12. 
 Custom Classes
-</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></body></html>
+</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div>
+<sciprt>
+document.addEventListener('DOMContentLoaded', function() {
+    document.body.addEventListener('click', function(e) {
+        // Check if the clicked element is a link with a hash
+        if (e.target.tagName === 'A' && e.target.hash) {
+            e.preventDefault(); // Prevent default link behavior
+            
+            const targetId = e.target.hash.substring(1); // Remove the # from the hash
+            const targetElement = document.getElementById(targetId);
+            
+            if (targetElement) {
+                // Scroll to the target element
+                targetElement.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+                
+                // Update the URL without triggering a page reload
+                history.pushState(null, null, e.target.hash);
+            }
+        }
+    });
+});
+</script>
+</body></html>
