@@ -4,8 +4,7 @@
 
 # Contents
 
-```toc
-```
+[TOC]
 
 
 # 1 The Gods
