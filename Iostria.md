@@ -11,17 +11,17 @@
 
 [Contents](#Contents)
 
-### 1-1 Izotl The god of gods
+### Izotl The god of gods
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. 
 Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.  
 
 
-### 1.2 Children of the light
+### Children of the light
 [Contents](#Contents)
 
-#### 1.2.1. Zodlios, The God of Justice 
+#### Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
 Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.  
 Holy symbol is the sun held over on the tip of a sword.  
@@ -34,7 +34,7 @@ Main codes of conduct;
 	- Strenght through law & order.  
  	- Creatures with no laws or gods should be treated as subhuman.  
 
-#### 1.2.2. Hecataeus, The God of wisdom
+#### Hecataeus, The God of wisdom
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl  
@@ -46,7 +46,7 @@ Main codes of conduct;
   	- Some things are beyond the understanding of mortals, such things lead a mortal mind to corruption.  
    	- Respect other creatures cultures and their faith.   
 
-#### 1.2.3. Dhemes The God of madness 
+#### Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters  
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers  
 Holy symbol is a celtic kraken  
@@ -59,10 +59,10 @@ Main codes of conduct;
   	- The natural state of the world is chaos, as such strive to create chaos where ever possible.  
    	- Organized civilication is the death of free thinking.  
 
-### 1.3 Children of Nature
+### Children of Nature
 [Contents](#Contents)
 
-#### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)  
+#### Chisemis, The God of the earth (rocks, ground etc)  
 Other names: Father earth  
 worshipped by the dwarves, rock gnomes and the people of klarth  
 Holy symbol is a shield with a picture of a mountain.  
@@ -71,7 +71,7 @@ Main temple is located deep inside a mountain, accesible from Klarth.
 Main codes of conduct;  
 	-...  
 
-#### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)  
+#### Cephine, The Goddess of the Wilderness (forests, swamps etc)  
 Other names: Mother nature, Goddess of harvest  
 worshipped by the wood elves, tree gnomes and the people within The Phantasmal forest and the Simmering swamp.  
 Holy symbol is a scythe and a stack of hay  
@@ -80,7 +80,7 @@ Her main temples location is also somewhat a mystery, but it is known that it li
 Main codes of conduct;  
 	- All things can exist together in harmony  
 
-#### 1.3.3. Lognar, The God of water and the seas  
+#### Lognar, The God of water and the seas  
 Other names: Master of the sea  
 worshipped by sailors and fishermen.  
 Holy symbol is a Trident  
@@ -89,10 +89,10 @@ His main temple is located on an island near the shores of Barataria bay.
 Main codes of conduct;  
 	-...  
 
-### 1.4 Children of the dark
+### Children of the dark
 [Contents](#Contents)
 
-#### 1.4.1. Danir, The God of Desire  
+#### Danir, The God of Desire  
 Other names:  The god of envy, The god of greed  
 Mainly worshipped by people that place themselves infront of others, as such most of his followers are Merchants, criminals and others seeking power through wealth.  
 Holy symbol is a dagger with fancy inlays and jewels  
@@ -104,7 +104,7 @@ Main codes of conduct;
   	- Promises & honor mean nothing if you are dead.  
    	- Don't give people the opportunity to betray you.  
 
-#### 1.4.2. Adrena, The Goddess of Kindness
+#### Adrena, The Goddess of Kindness
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
@@ -118,7 +118,7 @@ Main codes of conduct;
 	- It is the duty of the strong to protect those weaker then themselves  
 
 
-#### 1.4.3. Medona, The Goddess of Joy
+#### Medona, The Goddess of Joy
 Other names: The goddess of alcohol, goddess of art  
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice  
@@ -168,20 +168,20 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 [Contents](#Contents)
 
 
-### 3.1. Edward 'The undead' Thorn
+### Edward 'The undead' Thorn
 
 Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod” df
 He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.
 
 
-### 3.2. The Monstrosities
+### The Monstrosities
 
 The monstrosities created by Dhemes are beings of great strength and size, they are unintelligent beings mostly driven by their basic instinct of hunger, they were made by the mad one in some sort of  experiment for unknown reasons.
 
 It is not known exactly how many of these creatures still exist in Iostria, but every now and then there are stories told in inns across the continent about great beasts wandering the wilderness wreaking havoc on unsuspecting settlements.
 Some consider these monstrosities "demigods” because of their raw strength they are worshipped by some orc tribes and barbarians. Killing one of these monstrosities is nearly impossible and is considered a test to becoming a true legend in Iostria.
 
-#### 3.2.1. Yuan-ti
+#### Yuan-ti
 Yuan-ti is a gigantic serpent that's said to live somewhere deep within the phantasmal forest.  It used to wander around devouring entire villages until it took residence in a cave that has now became its lair, some tribes within the phantasmal forest started worshipping the serpent as a god of primal nature unknowing of its true origins.
 
 These tribes bring sacrifices to the serpent's lair to keep his hunger in check, so that it doesn’t start rampaging once more. These tribes have been worshipping the serpent for many millenium and they have been affected by its powers. Modern tribesmen have been physically deformed by Yuan-ti’s power. They are  somewhere in between human and serpent, they have also lost most of their humanity, mostly acting on their animalistic instincts. They still live in tribes where most of them hunt food and bring it to Yuan-ti’s lair.
@@ -194,7 +194,7 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 [Contents](#Contents)
 
 
-### 4.1. Airedale
+### Airedale
 [Contents](#Contents)
 
 
@@ -220,7 +220,7 @@ Airedales economy is based mostly on its large dock district and the exports and
 Airedales and the whole kingdom's official religion is to the light pantheon of gods and mostly to Zodlios. Other religions aren’t banned in the kingdom but they are often frowned upon and vandalism of churches and other places of worship to the other gods is not uncommon, also there have been rumours that famous supporters of the dark pantheon have been disappearing without trace. Despite this many underground communities of worship to the other gods exist within Airedale and the whole kingdom.
 
 
-### 4.2. The King
+### The King
 [Contents](#Contents)
 
 
@@ -234,7 +234,7 @@ Currently King Oceiros has ruled the kingdom for around a year with his mother S
 After Prince Artorias and the men few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
 
 
-### 4.3. Stratham
+### Stratham
 [Contents](#Contents)
 
 
@@ -264,7 +264,7 @@ The road to Stratham isn’t the easiest. If  you wish to travel to Stratham the
 
 
 
-### 4.4. Claton
+### Claton
 [Contents](#Contents)
 
 
@@ -283,7 +283,7 @@ Claton’s economy is based mostly on the sales of crops from the farms and the 
 Everything basic and less basic can be bought from the numerous shops and stalls around the market square. 
 
 
-### 4.5. Klarth
+### Klarth
 [Contents](#Contents)
 
 
@@ -298,7 +298,7 @@ Nearly all of Klarth’s economy is based on the export of weapons, armor and ot
 Getting into Klarth itself is another problem if you even manage to get there. The city is walled off and the entrances are guarded by the royal dwarf army. To get into the city you must have a good reason or a merchants pass. All illegal contraband is seized at the city’s gate, and you are also searched when leaving the city. Once you are inside the city walls Klarth is mostly an accepting place for travellers and merchants. There are even many inns and taverns built for human sized creatures. Getting into the inner city located in the mountainside is nearly impossible if you don’t live there or have an invitation from someone that does. Security at the inner gates is even tighter and civilians aren’t allowed to bring weapons inside the inner city.
 
 
-### 4.6. Mirfield
+### Mirfield
 [Contents](#Contents)
 
 
@@ -315,7 +315,7 @@ The council rules from the top floor of the largest building in the center of Mi
  Around Mirfield there are many towns both up and down on the traveler's path.
 
 
-### 4.7. Everwinter
+### Everwinter
 [Contents](#Contents)
 
 
@@ -326,7 +326,7 @@ The mountains around Everwinter are the most ore rich ground that has been found
 Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
 
-### 4.8. Zoavoarren
+### Zoavoarren
 [Contents](#Contents)
 
 
@@ -335,7 +335,7 @@ City of dragonborn, hidden from everything inside the mountains of the island of
 The depths of the mountais hides a massive portal between worlds, The portal to **underworld**. A magical barrier splits the over- and underworld and can be clearly seen through. The barriers keeps visitors away from both of the dimensions, but some beings have found a way to go through. One of the heroe's of the overworld, Wrarith, came thought the portal to save the world from a calamity.
 
 
-### 4.9. The traveler’s path
+### The traveler’s path
 [Contents](#Contents)
 
 
@@ -346,7 +346,7 @@ Today the path is the busiest trading route in Iostria with many merchants trave
 Some cities fights for the control of the route.
 
 
-### 4.10. The phantasmal forest
+### The phantasmal forest
 [Contents](#Contents)
 
 
@@ -361,7 +361,7 @@ The phantasmal forest is said to be a magical place with many forest druids prac
 > Legend says, that there lies hidden portal to another plane of existence, somewhere deep within Phantasmal Forest
 
 
-### 4.11. The simmering swamp
+### The simmering swamp
 [Contents](#Contents)
 
 
@@ -370,14 +370,14 @@ Located in a volcanically active part of  Iostria the simmering swamp lies in be
  Because of its location the waters of the simmering swamp are heated through geothermal geysers. The unfortunate side-effect is that the whole swamp, besides smelling like a swamp, also reeks of sulfur and volcanic fumes. One can get used to the smell as proved by the inhabitants of the simmering swamp. There are many small floating villages that are built on rafts, and they can float around the swamp area if need be. Most of the creatures living in the swamp are tortles but there are also many other races that live among them.
 
 
-### 4.12. The lost desert 
+### The lost desert 
 [Contents](#Contents)
 
 
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
 
-### 4.13. The tribal valley
+### The tribal valley
 [Contents](#Contents)
 
 
@@ -386,7 +386,7 @@ Is a giant valley in central Iostria that stands before the entrance to Klarth. 
 Many armies have tried to conquer the tribal valley, all of them have failed. Many travellers every year go missing there never to be seen again, most of them searching for the same thing, a safe trade route to Klarth. Every merchant in the continent wants to get their hands on an easier trading route to Klarth, so they could sell the equipment forged by the dwarven master smiths. The only known trade route to Klarth today is by sea and even then you have to risk sailing through pirate waters.
 
 
-### 4.14. The fishermans bay
+### The fishermans bay
 [Contents](#Contents)
 
 
@@ -397,7 +397,7 @@ Most of the fishermen in these towns travel to Claton to sell their catch. These
 It is legend that the reason for the abnormally large amount of fish in these waters is that the remains of one of the sea monstrosities slain by Edward 'The undead' Thorn are located somewhere in the depths of the bay, and all of the sea life thrives either by eating the remains itself, or by hunting the smaller fish that do. This story is unconfirmed however and so it is unknown if it is the actual reason for the rich sea life in the area.
 
 
-### 4.15. Barataria Bay
+### Barataria Bay
 [Contents](#Contents)
 
 
@@ -418,11 +418,11 @@ There is no official town guard or police force, since it’s more of a place of
 [Contents](#Contents)
 
 
-### 5.1. Human
+### Human
 Humans are the most common race in Iostria being about 40% of the total population. They can be found in most parts of the continent with a few exceptions.
 
 
-### 5.2. Hollow one
+### Hollow one
 Dead characters may become Hollow ones by attracting Death’s attention and striking themselves a bargain to be freed. If they succeed in time, they might be able to return to their old body. If they take too long or their body is destroyed in the living realm they will return as an Ashen one.  
 Hollow ones have a shadowy demonic appearance.
 
@@ -441,11 +441,11 @@ _**Revenance.**_ You retain your creature type, yet you register as undead to sp
 _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 
-### 5.3. Ashen one 
+### Ashen one 
 [Contents](#Contents)
 An Ashen one is a soul freed from Death's realm that had no body to go to so it manifested itself as a demonic figure, largely recembelling the appearance of a hollow one but more complete and not shadowy.
 
-#### 5.3.1. Traits
+#### Traits
 
 Black/purple like demonic appearance  
 Horns  
@@ -462,7 +462,7 @@ Ages normally, but Ashen one can live up to 860 years old.
 
 Overrides your current race. Your stats and knowledge does not change. Ashen One isn’t necessarily Undead, but will be counted as an undead when casting spells against Ashen one (Inspiration can be sacrificed to negate Undead status against one (1) spell or effect).
 
-#### 5.3.2. Age
+#### Age
 Your age at the moment you died + (Roll a d20 at the end of every month you were a hollow one, If under 14 add one “dead” counter) 2 x months spent “dead”
 
 _**Cling to Life.**_ When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
@@ -471,7 +471,7 @@ _**Wish to Death.**_ When becoming Ashen One, Death grants you one (1) special a
 
 _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
-#### 5.3.3. List of abilities available for Ashen ones depending on character class:
+#### List of abilities available for Ashen ones depending on character class:
 
 - Barbarian
 _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
@@ -516,7 +516,7 @@ _**Unholy heal**._ As an action, Unleash a red stream of light that seems like b
 - Blood hunter
 
 
-### 5.4. Tiefling of Iostria
+### Tiefling of Iostria
 [Contents](#Contents)
 
 A Tiefling of Iostria is a mixture between a human and an Ashen one. They are considered rare in Iostria and most of them live in Everwinter, but small amounts of Tieflings can be found all over the continent.
@@ -526,50 +526,50 @@ In modern Tieflings there is only a small percentage of ashen one left because o
 
 Shares the stats and traits with Tiefling.
 
-### 5.5. Dragonborn
+### Dragonborn
 [Contents](#Contents)
 
 Big, standing, Dragon-like creatures, Born from original dragons, Resides on an isolated island called Zoavoarren. They live deep inside the volcanoes, harnessing the power of lava. 
 
 
-### 5.6. Warforged
+### Warforged
 [Contents](#Contents)
 
 Warforged come's from a neighbouring continent and are pretty rare in Iostria. Some old warforged have retired from battling and put up shops and offer services to other warforged.
 
 Some warforged smiths has acquired the rank of **master of arms**. They can sell and install modules for warforged armoury.
 
-### 5.7. Dwarf
+### Dwarf
 Dwarves mostly live in the Klarth, but lot of drawes has come to trading cities.
 
-### 5.8. Elf
+### Elf
 Most elves lives in the forest right of Claton
 
-### 5.9. Firbolg
+### Firbolg
 
 
-### 5.10. Gnome
+### Gnome
 Gnomes lives in vast majority of places depending on their subrace.
 
-### 5.11. Goblin
+### Goblin
 
 
-### 5.12. Half-elf
+### Half-elf
 
 
-### 5.13. Half-orc
+### Half-orc
 
 
-### 5.14. Halfling
+### Halfling
 
 
-### 5.15. Kenku
+### Kenku
 
 
-### 5.16. Tabaxi
+### Tabaxi
 
 
-### 5.17. Tortle
+### Tortle
 
 
 
@@ -577,29 +577,29 @@ Gnomes lives in vast majority of places depending on their subrace.
 [Contents](#Contents)
 
 
-### 6.1. Werewolf
+### Werewolf
 
-### 6.2. Wolf
+### Wolf
 
-### 6.3. Orc
+### Orc
 
 
 ## 7 Mechanics
 [Contents](#Contents)
 
 
-### 7.1. Body decaying
+### Body decaying
 Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the result of the dice is the %) each day. You can restore a body if it remains 10% intact. 
 
-### 7.2. Drain
+### Drain
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
-### 7.3 Marshall clash
+### Marshall clash
 During your attack action, after hitting the target, you may challenge the target to a clash, where both combatants gather all their strenght into one blow and try to down each other. Both comabatants roll *1D20* without any modifiers. If tied, the attack has no effect. The losing combatant takes permanent damage(debuff) while taking increased amount of damage. This scales with the difference between the dices, were larger difference equals to more damage and more severe after effects. 
 
 You may for example, disable boss abilities or take away enemies body parts. This may happen to you too if you lose.
 
-### 7.4 Healing potions
+### Healing potions
 You have 2 options for using healing potions in combat
 1. Take a full action and heal the maximum amount the potion can heal
 2. Chug the potion fast using bonus action. Roll healing normally.
@@ -608,7 +608,7 @@ You have 2 options for using healing potions in combat
 ## 8 Magic Items
 [Contents](#Contents)
 
-### 8.1 Sword of revenance
+### Sword of revenance
 A black longsword-greatsword hybrid, uses the stat sheet of a longsword+1
 
 Description:
@@ -617,7 +617,7 @@ A long, black blade made of unknown material, the hilt is ornate and longer than
 The sword acts as a +1 longsword with special ability:
 _**Revenant glory**_  the sword has 3 charges that charge during the night, if under the moonlight. You may use charges up to 3 on a attack performed with a sword. The stacks need to be used before the attack is rolled. - Add +1 to attack roll per stack. Allso deal 1d4 per stack extra damage and heal yourself the same amount
 
-### 8.2 Longbow of the fallen
+### Longbow of the fallen
 Old, ornate longbow. Shares statsheet of +1 longbow
 
 Description:
@@ -628,7 +628,7 @@ _**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, ig
 
 Marked enemies can be seen through a wall the effect lasts 2 rounds.
 
-### 8.3 Crusader modular maul
+### Crusader modular maul
 **Damage:** *2d6* bludgeonin  
 **Property:** Heavy, two-handed  
 **weight:** 40 lbs.  
@@ -650,9 +650,9 @@ each creature in a 5ft cone in front of you takes *1d6 impact damage*.
 You swing your maul upwards with the help of the jet engine.  
 Target creature within 5 feet of you, takes *2d8 impact damage* and has to succeed a constitution 13 save throw. Failing save stuns the target for one round.
 
-#### 8.3.1 Maul modules
+#### Maul modules
 
-##### 8.3.1.1 Heads
+##### Heads
 **Impact head:** Base head, turn the damage into impact.
 **Slasher head:** A scythe like blade for your maul, turn the damage type into slashing  
 **Spear head:** A spear head, turns your damage type into piercing  
@@ -663,7 +663,7 @@ Target creature within 5 feet of you, takes *2d8 impact damage* and has to succe
 **Damage:** *2d4* magic, single target
 Cannot do ranged attack to a target on melee range
 
-##### 8.3.1.2 Engines
+##### Engines
 
 **Small jet engine:** Base engine, capable of assisting swings with the maul.
 
@@ -675,7 +675,7 @@ Cannot do ranged attack to a target on melee range
 ## 9 Battles and politics
 [Contents](#Contents)
 
-### 9.1 Control of the Traveler's path
+### Control of the Traveler's path
 The biggest political fight over territory in Iostria. For decades, Airedale have been trying to get taxation on the whole traveler's path, and Everwinter has been trying to allso get hold of the northern part of the path wich has led to many wars between the cities. Nowadays the direct battling has ceased, but there is still assasinations and tries to destroy the other one by other means. Mirfield has gotten some backslash bc it resides in the middle of the battle
 
 
