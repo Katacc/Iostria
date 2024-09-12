@@ -2,26 +2,26 @@
 ![kartta](DD_kartta_pohja.jpg)
 
 
-# Contents
+## Contents
 
 [TOC]
 
 
-# 1 The Gods
+## 1 The Gods
 
 [Contents](#Contents)
 
-## 1.1 Izotl The god of gods
+### 1.1 Izotl The god of gods
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. 
 Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.
 
 
-## 1.2 Children of the light
+### 1.2 Children of the light
 [Contents](#Contents)
 
-### 1.2.1. Zodlios, The God of Justice 
+#### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
 Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.  
 Holy symbol is the sun held over on the tip of a sword.  
@@ -34,7 +34,7 @@ Main codes of conduct;
 	- Strenght through law & order.  
  	- Creatures with no laws or gods should be treated as subhuman.  
 
-### 1.2.2. Hecataeus, The God of wisdom
+#### 1.2.2. Hecataeus, The God of wisdom
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl  
@@ -46,7 +46,7 @@ Main codes of conduct;
   	- Some things are beyond the understanding of mortals, such things lead a mortal mind to corruption.  
    	- Respect other creatures cultures and their faith.   
 
-### 1.2.3. Dhemes The God of madness 
+#### 1.2.3. Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters  
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers  
 Holy symbol is a celtic kraken  
@@ -59,10 +59,10 @@ Main codes of conduct;
   	- The natural state of the world is chaos, as such strive to create chaos where ever possible.  
    	- Organized civilication is the death of free thinking.  
 
-## 1.3 Children of Nature
+### 1.3 Children of Nature
 [Contents](#Contents)
 
-### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)  
+#### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)  
 Other names: Father earth  
 worshipped by the dwarves, rock gnomes and the people of klarth  
 Holy symbol is a shield with a picture of a mountain.  
@@ -71,7 +71,7 @@ Main temple is located deep inside a mountain, accesible from Klarth.
 Main codes of conduct;  
 	-...  
 
-### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)  
+#### 1.3.2. Cephine, The Goddess of the Wilderness (forests, swamps etc)  
 Other names: Mother nature, Goddess of harvest  
 worshipped by the wood elves, tree gnomes and the people within The Phantasmal forest and the Simmering swamp.  
 Holy symbol is a scythe and a stack of hay  
@@ -80,7 +80,7 @@ Her main temples location is also somewhat a mystery, but it is known that it li
 Main codes of conduct;  
 	- All things can exist together in harmony  
 
-### 1.3.3. Lognar, The God of water and the seas  
+#### 1.3.3. Lognar, The God of water and the seas  
 Other names: Master of the sea  
 worshipped by sailors and fishermen.  
 Holy symbol is a Trident  
@@ -89,10 +89,10 @@ His main temple is located on an island near the shores of Barataria bay.
 Main codes of conduct;  
 	-...  
 
-## 1.4 Children of the dark
+### 1.4 Children of the dark
 [Contents](#Contents)
 
-### 1.4.1. Danir, The God of Desire  
+#### 1.4.1. Danir, The God of Desire  
 Other names:  The god of envy, The god of greed  
 Mainly worshipped by people that place themselves infront of others, as such most of his followers are Merchants, criminals and others seeking power through wealth.  
 Holy symbol is a dagger with fancy inlays and jewels  
@@ -104,7 +104,7 @@ Main codes of conduct;
   	- Promises & honor mean nothing if you are dead.  
    	- Don't give people the opportunity to betray you.  
 
-### 1.4.2. Adrena, The Goddess of Kindness
+#### 1.4.2. Adrena, The Goddess of Kindness
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
@@ -118,7 +118,7 @@ Main codes of conduct;
 	- It is the duty of the strong to protect those weaker then themselves  
 
 
-### 1.4.3. Medona, The Goddess of Joy
+#### 1.4.3. Medona, The Goddess of Joy
 Other names: The goddess of alcohol, goddess of art  
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice  
@@ -130,7 +130,7 @@ Main codes of conduct;
   	- Life is better when you are a bit tipsy.  
 
 
-# 2. DEATH AND THE GREAT MIST	
+## 2. DEATH AND THE GREAT MIST	
 [Contents](#Contents)
 
 
@@ -164,24 +164,24 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 
-# 3. DEMIGODS
+## 3. DEMIGODS
 [Contents](#Contents)
 
 
-## 3.1. Edward 'The undead' Thorn
+### 3.1. Edward 'The undead' Thorn
 
 Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod” df
 He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.
 
 
-## 3.2. The Monstrosities
+### 3.2. The Monstrosities
 
 The monstrosities created by Dhemes are beings of great strength and size, they are unintelligent beings mostly driven by their basic instinct of hunger, they were made by the mad one in some sort of  experiment for unknown reasons.
 
 It is not known exactly how many of these creatures still exist in Iostria, but every now and then there are stories told in inns across the continent about great beasts wandering the wilderness wreaking havoc on unsuspecting settlements.
 Some consider these monstrosities "demigods” because of their raw strength they are worshipped by some orc tribes and barbarians. Killing one of these monstrosities is nearly impossible and is considered a test to becoming a true legend in Iostria.
 
-### 3.2.1. Yuan-ti
+#### 3.2.1. Yuan-ti
 Yuan-ti is a gigantic serpent that's said to live somewhere deep within the phantasmal forest.  It used to wander around devouring entire villages until it took residence in a cave that has now became its lair, some tribes within the phantasmal forest started worshipping the serpent as a god of primal nature unknowing of its true origins.
 
 These tribes bring sacrifices to the serpent's lair to keep his hunger in check, so that it doesn’t start rampaging once more. These tribes have been worshipping the serpent for many millenium and they have been affected by its powers. Modern tribesmen have been physically deformed by Yuan-ti’s power. They are  somewhere in between human and serpent, they have also lost most of their humanity, mostly acting on their animalistic instincts. They still live in tribes where most of them hunt food and bring it to Yuan-ti’s lair.
@@ -190,11 +190,11 @@ These tribes bring sacrifices to the serpent's lair to keep his hunger in check,
 Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
-# 4. LARGE CITIES & NOTABLE PLACES
+## 4. LARGE CITIES & NOTABLE PLACES
 [Contents](#Contents)
 
 
-## 4.1. Airedale
+### 4.1. Airedale
 [Contents](#Contents)
 
 
@@ -220,7 +220,7 @@ Airedales economy is based mostly on its large dock district and the exports and
 Airedales and the whole kingdom's official religion is to the light pantheon of gods and mostly to Zodlios. Other religions aren’t banned in the kingdom but they are often frowned upon and vandalism of churches and other places of worship to the other gods is not uncommon, also there have been rumours that famous supporters of the dark pantheon have been disappearing without trace. Despite this many underground communities of worship to the other gods exist within Airedale and the whole kingdom.
 
 
-## 4.2. The King
+### 4.2. The King
 [Contents](#Contents)
 
 
@@ -234,7 +234,7 @@ Currently King Oceiros has ruled the kingdom for around a year with his mother S
 After Prince Artorias and the men few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
 
 
-## 4.3. Stratham
+### 4.3. Stratham
 [Contents](#Contents)
 
 
@@ -264,7 +264,7 @@ The road to Stratham isn’t the easiest. If  you wish to travel to Stratham the
 
 
 
-## 4.4. Claton
+### 4.4. Claton
 [Contents](#Contents)
 
 
@@ -283,7 +283,7 @@ Claton’s economy is based mostly on the sales of crops from the farms and the 
 Everything basic and less basic can be bought from the numerous shops and stalls around the market square. 
 
 
-## 4.5. Klarth
+### 4.5. Klarth
 [Contents](#Contents)
 
 
@@ -298,7 +298,7 @@ Nearly all of Klarth’s economy is based on the export of weapons, armor and ot
 Getting into Klarth itself is another problem if you even manage to get there. The city is walled off and the entrances are guarded by the royal dwarf army. To get into the city you must have a good reason or a merchants pass. All illegal contraband is seized at the city’s gate, and you are also searched when leaving the city. Once you are inside the city walls Klarth is mostly an accepting place for travellers and merchants. There are even many inns and taverns built for human sized creatures. Getting into the inner city located in the mountainside is nearly impossible if you don’t live there or have an invitation from someone that does. Security at the inner gates is even tighter and civilians aren’t allowed to bring weapons inside the inner city.
 
 
-## 4.6. Mirfield
+### 4.6. Mirfield
 [Contents](#Contents)
 
 
@@ -315,7 +315,7 @@ The council rules from the top floor of the largest building in the center of Mi
  Around Mirfield there are many towns both up and down on the traveler's path.
 
 
-## 4.7. Everwinter
+### 4.7. Everwinter
 [Contents](#Contents)
 
 
@@ -326,7 +326,7 @@ The mountains around Everwinter are the most ore rich ground that has been found
 Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
 
-## 4.8. Zoavoarren
+### 4.8. Zoavoarren
 [Contents](#Contents)
 
 
@@ -335,7 +335,7 @@ City of dragonborn, hidden from everything inside the mountains of the island of
 The depths of the mountais hides a massive portal between worlds, The portal to **underworld**. A magical barrier splits the over- and underworld and can be clearly seen through. The barriers keeps visitors away from both of the dimensions, but some beings have found a way to go through. One of the heroe's of the overworld, Wrarith, came thought the portal to save the world from a calamity.
 
 
-## 4.9. The traveler’s path
+### 4.9. The traveler’s path
 [Contents](#Contents)
 
 
@@ -346,7 +346,7 @@ Today the path is the busiest trading route in Iostria with many merchants trave
 Some cities fights for the control of the route.
 
 
-## 4.10. The phantasmal forest
+### 4.10. The phantasmal forest
 [Contents](#Contents)
 
 
@@ -361,7 +361,7 @@ The phantasmal forest is said to be a magical place with many forest druids prac
 > Legend says, that there lies hidden portal to another plane of existence, somewhere deep within Phantasmal Forest
 
 
-## 4.11. The simmering swamp
+### 4.11. The simmering swamp
 [Contents](#Contents)
 
 
@@ -370,14 +370,14 @@ Located in a volcanically active part of  Iostria the simmering swamp lies in be
  Because of its location the waters of the simmering swamp are heated through geothermal geysers. The unfortunate side-effect is that the whole swamp, besides smelling like a swamp, also reeks of sulfur and volcanic fumes. One can get used to the smell as proved by the inhabitants of the simmering swamp. There are many small floating villages that are built on rafts, and they can float around the swamp area if need be. Most of the creatures living in the swamp are tortles but there are also many other races that live among them.
 
 
-## 4.12. The lost desert 
+### 4.12. The lost desert 
 [Contents](#Contents)
 
 
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
 
-## 4.13. The tribal valley
+### 4.13. The tribal valley
 [Contents](#Contents)
 
 
@@ -386,7 +386,7 @@ Is a giant valley in central Iostria that stands before the entrance to Klarth. 
 Many armies have tried to conquer the tribal valley, all of them have failed. Many travellers every year go missing there never to be seen again, most of them searching for the same thing, a safe trade route to Klarth. Every merchant in the continent wants to get their hands on an easier trading route to Klarth, so they could sell the equipment forged by the dwarven master smiths. The only known trade route to Klarth today is by sea and even then you have to risk sailing through pirate waters.
 
 
-## 4.14. The fishermans bay
+### 4.14. The fishermans bay
 [Contents](#Contents)
 
 
@@ -397,7 +397,7 @@ Most of the fishermen in these towns travel to Claton to sell their catch. These
 It is legend that the reason for the abnormally large amount of fish in these waters is that the remains of one of the sea monstrosities slain by Edward 'The undead' Thorn are located somewhere in the depths of the bay, and all of the sea life thrives either by eating the remains itself, or by hunting the smaller fish that do. This story is unconfirmed however and so it is unknown if it is the actual reason for the rich sea life in the area.
 
 
-## 4.15. Barataria Bay
+### 4.15. Barataria Bay
 [Contents](#Contents)
 
 
@@ -414,15 +414,15 @@ There is no official town guard or police force, since it’s more of a place of
  Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
  
  
-# 5. Races
+## 5. Races
 [Contents](#Contents)
 
 
-## 5.1. Human
+### 5.1. Human
 Humans are the most common race in Iostria being about 40% of the total population. They can be found in most parts of the continent with a few exceptions.
 
 
-## 5.2. Hollow one
+### 5.2. Hollow one
 Dead characters may become Hollow ones by attracting Death’s attention and striking themselves a bargain to be freed. If they succeed in time, they might be able to return to their old body. If they take too long or their body is destroyed in the living realm they will return as an Ashen one.  
 Hollow ones have a shadowy demonic appearance.
 
@@ -441,11 +441,11 @@ _**Revenance.**_ You retain your creature type, yet you register as undead to sp
 _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 
-## 5.3. Ashen one 
+### 5.3. Ashen one 
 [Contents](#Contents)
 An Ashen one is a soul freed from Death's realm that had no body to go to so it manifested itself as a demonic figure, largely recembelling the appearance of a hollow one but more complete and not shadowy.
 
-### 5.3.1. Traits
+#### 5.3.1. Traits
 
 Black/purple like demonic appearance  
 Horns  
@@ -462,7 +462,7 @@ Ages normally, but Ashen one can live up to 860 years old.
 
 Overrides your current race. Your stats and knowledge does not change. Ashen One isn’t necessarily Undead, but will be counted as an undead when casting spells against Ashen one (Inspiration can be sacrificed to negate Undead status against one (1) spell or effect).
 
-### 5.3.2. Age
+#### 5.3.2. Age
 Your age at the moment you died + (Roll a d20 at the end of every month you were a hollow one, If under 14 add one “dead” counter) 2 x months spent “dead”
 
 _**Cling to Life.**_ When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
@@ -471,7 +471,7 @@ _**Wish to Death.**_ When becoming Ashen One, Death grants you one (1) special a
 
 _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
-### 5.3.3. List of abilities available for Ashen ones depending on character class:
+#### 5.3.3. List of abilities available for Ashen ones depending on character class:
 
 - Barbarian
 _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
@@ -516,7 +516,7 @@ _**Unholy heal**._ As an action, Unleash a red stream of light that seems like b
 - Blood hunter
 
 
-## 5.4. Tiefling of Iostria
+### 5.4. Tiefling of Iostria
 [Contents](#Contents)
 
 A Tiefling of Iostria is a mixture between a human and an Ashen one. They are considered rare in Iostria and most of them live in Everwinter, but small amounts of Tieflings can be found all over the continent.
@@ -526,89 +526,89 @@ In modern Tieflings there is only a small percentage of ashen one left because o
 
 Shares the stats and traits with Tiefling.
 
-## 5.5. Dragonborn
+### 5.5. Dragonborn
 [Contents](#Contents)
 
 Big, standing, Dragon-like creatures, Born from original dragons, Resides on an isolated island called Zoavoarren. They live deep inside the volcanoes, harnessing the power of lava. 
 
 
-## 5.6. Warforged
+### 5.6. Warforged
 [Contents](#Contents)
 
 Warforged come's from a neighbouring continent and are pretty rare in Iostria. Some old warforged have retired from battling and put up shops and offer services to other warforged.
 
 Some warforged smiths has acquired the rank of **master of arms**. They can sell and install modules for warforged armoury.
 
-## 5.7. Dwarf
+### 5.7. Dwarf
 Dwarves mostly live in the Klarth, but lot of drawes has come to trading cities.
 
-## 5.8. Elf
+### 5.8. Elf
 Most elves lives in the forest right of Claton
 
-## 5.9. Firbolg
+### 5.9. Firbolg
 
 
-## 5.10. Gnome
+### 5.10. Gnome
 Gnomes lives in vast majority of places depending on their subrace.
 
-## 5.11. Goblin
+### 5.11. Goblin
 
 
-## 5.12. Half-elf
+### 5.12. Half-elf
 
 
-## 5.13. Half-orc
+### 5.13. Half-orc
 
 
-## 5.14. Halfling
+### 5.14. Halfling
 
 
-## 5.15. Kenku
+### 5.15. Kenku
 
 
-## 5.16. Tabaxi
+### 5.16. Tabaxi
 
 
-## 5.17. Tortle
+### 5.17. Tortle
 
 
 
-# 6. Monsters
+## 6. Monsters
 [Contents](#Contents)
 
 
-## 6.1. Werewolf
+### 6.1. Werewolf
 
-## 6.2. Wolf
+### 6.2. Wolf
 
-## 6.3. Orc
+### 6.3. Orc
 
 
-# 7. Mechanics
+## 7. Mechanics
 [Contents](#Contents)
 
 
-## 7.1. Body decaying
+### 7.1. Body decaying
 Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the result of the dice is the %) each day. You can restore a body if it remains 10% intact. 
 
-## 7.2. Drain
+### 7.2. Drain
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
-## 7.3 Marshall clash
+### 7.3 Marshall clash
 During your attack action, after hitting the target, you may challenge the target to a clash, where both combatants gather all their strenght into one blow and try to down each other. Both comabatants roll *1D20* without any modifiers. If tied, the attack has no effect. The losing combatant takes permanent damage(debuff) while taking increased amount of damage. This scales with the difference between the dices, were larger difference equals to more damage and more severe after effects. 
 
 You may for example, disable boss abilities or take away enemies body parts. This may happen to you too if you lose.
 
-## 7.4 Healing potions
+### 7.4 Healing potions
 You have 2 options for using healing potions in combat
 1. Take a full action and heal the maximum amount the potion can heal
 2. Chug the potion fast using bonus action. Roll healing normally.
 
 
-# 8. Magic Items
+## 8. Magic Items
 [Contents](#Contents)
 
-## 8.1 Sword of revenance
+### 8.1 Sword of revenance
 A black longsword-greatsword hybrid, uses the stat sheet of a longsword+1
 
 Description:
@@ -617,7 +617,7 @@ A long, black blade made of unknown material, the hilt is ornate and longer than
 The sword acts as a +1 longsword with special ability:
 _**Revenant glory**_  the sword has 3 charges that charge during the night, if under the moonlight. You may use charges up to 3 on a attack performed with a sword. The stacks need to be used before the attack is rolled. - Add +1 to attack roll per stack. Allso deal 1d4 per stack extra damage and heal yourself the same amount
 
-## 8.2 Longbow of the fallen
+### 8.2 Longbow of the fallen
 Old, ornate longbow. Shares statsheet of +1 longbow
 
 Description:
@@ -628,7 +628,7 @@ _**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, ig
 
 Marked enemies can be seen through a wall the effect lasts 2 rounds.
 
-## 8.3 Crusader modular maul
+### 8.3 Crusader modular maul
 **Damage:** *2d6* bludgeonin  
 **Property:** Heavy, two-handed  
 **weight:** 40 lbs.  
@@ -650,9 +650,9 @@ each creature in a 5ft cone in front of you takes *1d6 impact damage*.
 You swing your maul upwards with the help of the jet engine.  
 Target creature within 5 feet of you, takes *2d8 impact damage* and has to succeed a constitution 13 save throw. Failing save stuns the target for one round.
 
-### 8.3.1 Maul modules
+#### 8.3.1 Maul modules
 
-#### 8.3.1.1 Heads
+##### 8.3.1.1 Heads
 **Impact head:** Base head, turn the damage into impact.
 **Slasher head:** A scythe like blade for your maul, turn the damage type into slashing  
 **Spear head:** A spear head, turns your damage type into piercing  
@@ -663,7 +663,7 @@ Target creature within 5 feet of you, takes *2d8 impact damage* and has to succe
 **Damage:** *2d4* magic, single target
 Cannot do ranged attack to a target on melee range
 
-#### 8.3.1.2 Engines
+##### 8.3.1.2 Engines
 
 **Small jet engine:** Base engine, capable of assisting swings with the maul.
 
@@ -672,255 +672,13 @@ Cannot do ranged attack to a target on melee range
 **High-powered jet engine:** Allows your maul to thrust you forward and perform an high impact attack.
 
 
-# 9. Battles and politics
+## 9. Battles and politics
 [Contents](#Contents)
 
-## 9.1 Control of the Traveler's path
+### 9.1 Control of the Traveler's path
 The biggest political fight over territory in Iostria. For decades, Airedale have been trying to get taxation on the whole traveler's path, and Everwinter has been trying to allso get hold of the northern part of the path wich has led to many wars between the cities. Nowadays the direct battling has ceased, but there is still assasinations and tries to destroy the other one by other means. Mirfield has gotten some backslash bc it resides in the middle of the battle
 
 
-# 12. Custom Classes
+## 12. Custom Classes
 [Contents](#Contents)
 
-## 12.1. Elemental Fighter (5e Class)
-
-
-### 12.1.1. Elemental Fighter
-Elemental fighters are warriors capable of channeling the power of the elemental planes to enhance their own martial abilities, engulfing weapons in primordial energy and unleashing them onto their opponents.
-
-The training of Elemental Fighters require an adept understanding of the elements and have a firm grasp on controlling them. Most users and their elements are linked, since each elemental discipline utilities the strengths of different parts of the body more than others and a different personality, leading some to be more tuned to certain elements than other.
-
-### 12.1.2. Creating an Elemental Fighter
-When creating your elemental fighter, ask yourself how did you developed your ability to control the elements. Have you been touched by an elemental plane and have the power of controlling it tied to your lineage, or is your ability the result of years of study and training to find the connection to the elemental planes?
-
-#### 12.1.2.1. Quick Build
-You can make an Elemental Fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution and Charisma, to enhance the power of some of your class features. Second, choose the Hermit background.
-
-### 12.1.3. Class Features
-As a Elemental Fighter you gain the following class features.
-
-#### 12.1.3.1. Hit Points
-Hit Dice: 1d8 per Elemental Fighter level
-Hit Points at 1st Level: 8 + Constitution modifier
-Hit Points at Higher Levels: 1d8 (or 5) + Constitution modifier per Elemental Fighter level after 1st
-
-#### 12.1.3.2. Proficiencies
-Armor: Light armor, medium armor
-Weapons: All melee weapons
-Tools: None
-Saving Throws: Strength, Dexterity
-Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
-
-#### 12.1.3.3. Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-
-(a) Breastplate or (b) Studded leather
-(a) A martial weapon and a shield or (b) Two martial weapons
-(a) A light crossbow and 20 bolts or (b) Two handaxes
-(a) A dungeoneer's pack or (b) An explorer's pack
-Table: The Elemental Fighter
-Level	Proficiency
-Bonus	Features	Harness Element
-1st	+2	Primordial Circle	-
-2nd	+2	Enhance Energy, Harness Element	1d6
-3rd	+2	Primordial Circle	2d6
-4th	+2	Ability Score Improvement	2d6
-5th	+3	Extra Attack	3d6
-6th	+3	Primordial Circle	3d6
-7th	+3	Primordial Shield	4d6
-8th	+3	Ability Score Improvement	4d6
-9th	+4	Outlandish Physiology	5d6
-10th	+4	Primordial Circle	5d6
-11th	+4	Elemental Strike	6d6
-12th	+4	Ability Score Improvement	6d6
-13th	+5	Planar Resistance	7d6
-14th	+5	Primordial Circle	7d6
-15th	+5	Primordial Shield	8d6
-16th	+5	Ability Score Improvement	8d6
-17th	+6	Piercing Energy	9d6
-18th	+6	Primordial Circle	9d6
-19th	+6	Ability Score Improvement	10d6
-20th	+6	Elemental Mastery	10d6
-Primordial Circle
-Starting at 1st level, you must choose the planar circle from were you draw your elemental power. You can choose between Fire, Water, Earth and Air circles.
-
-Your choice grants you features at 1st, 3rd, 6th, 10th, 14th and 18th levels.
-
-#### 12.1.3.4. Elemental Affinity
-Each circle have a specific elemental affinity attached to it. These are the following:
-
-Fire: fire damage
-Earth: bludgeoning damage
-Air: thunder damage
-Water: cold damage
-Enhance Energy
-At 2nd level, you can empower the elemental destruction you deliver. Once in each of your turns when you hit a creature with a acid, cold, fire, lightning, thunder, radiant or necrotic damage, you deal additional 1d4 damage from the chosen type. This damage increases to 1d6 at 5th level and 1d8 at 13th level.
-
-Harness Element
-Also at 2nd level, you learn how to engulf your weapon with elemental power.
-
-When you roll initiative, your weapon is engulfed by elemental energy. For 1 minute, or until you hit a creature with an attack from the chosen weapon (whichever happens first), you deal additional damage equal to 1d6. The damage type is the same of the damage type on your Primordial Circle. As you gain levels in this class, your additional damage increases as shown on the harness element column on the class table.
-
-Each turn of combat after that in which you take damage or attack a hostile creature, roll a d6. On a roll of 5 or 6, your the elemental energy recharges.
-
-Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-Extra Attack
-Also at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-Elemental Hurler
-Beginning at 5th level, you can project the elemental energy from your melee attacks. Whenever you add Elemental damage with your Harness Element feature, you gain reach with that attack. All the damage caused is from the same type of your Primordial Circle chosen element.
-
-In addition, you ignore resistance to the damage type from your chosen Primordial Circle.
-
-Primordial Shield
-At 7th level, whenever you take damage from an elemental attack, you can protect yourself by absorbing that energy. Whenever you take damage from acid, cold, fire, lightning, thunder, necrotic or radiant, you can reduce that damage by half.
-
-You can use this feature a number of times equal to your proficiency bonus, and regain your uses after a long rest. You can also spend your Harness Energy as a bonus action to recharge this ability.
-
-Starting at 15th level, whenever you reduce damage in that manner, your Harness Energy recharges.
-
-Outlandish Physiology
-At 9th level, you become immune to poison and disease and to poison damage.
-
-Elemental Strike
-Starting at 11th level, whenever you hit a creature with an attack with a weapon made as part of your Attack action, that creature takes 1d8 additional damage from the type you have affinity with.
-
-Planar Resistance
-At 13th level, you become resistant to the damage type you have affinity with.
-
-Piercing Energy
-Starting at 17th level, your elemental attacks related to the damage type you have affinity with ignore immunity to damage.
-
-Elemental Mastery
-Starting 20th level, whenever you hit a creature with an attack with a weapon made as part of your Attack action, you deal additional damage equal to your Charisma modifier. The damage type is the same from the one you have affinity with.
-
-Fire
-Blazing Trail
-At 1st level when you choose this circle, you move trough the battlefield like fire on a dry land. When you roll initiative, you can add your Charisma modifier to the roll.
-
-Additionally, while you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier. You can use a shield and still gain this benefit.
-
-Fiery Personality
-At 1st level, your abrasive temperament is the fuel for your flame powers. As a bonus action, you can conduct your inner flames trough a weapon you are wielding. You can use your Charisma, instead of Strength or Dexterity, when making attack and damage rolls with this weapon, if it lacks the heavy or two handed property. Doing so causes wood weapons to burn and be destroyed by your touch, and metal weapons to heat, causing the damage caused by your modifier to be fire, instead of the normal damage for that weapon.
-
-Immolation
-Starting at 3rd level, when you cause fire damage with your Harness Element feature, you set your target on fire. On the start of each of your turns, the target takes additional 1d6 fire damage. This damage lasts for a number of turns equal to your proficiency bonus, ending earlier if your target use its action to put the fires off or if it uses water to douse the flames.
-
-Burning Hate
-At 3rd level, your passions feed the flames you control. Whenever you take damage from an attack or after failing a save, you can choose to let your weapon ignite in flames, recharging your Harness Element.
-
-You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses when you finish a short or long rest.
-
-Melting Cut
-Starting at 6th level, the flames of your blade make it easier for you to cut trough your opponents flesh and protections. Whenever you deal fire damage with a weapon attack, you score a critical hit on a roll of 19 or 20 on the d20.
-
-Inferno
-At 10th level, whenever you use your Immolation feature, you can also target any creatures of your choice within 5 feet of your target.
-
-Fiery Surge
-At 14th level, whenever you roll initiative, you can force creatures of your choice in a 30-foot radius to make a Dexterity saving throw, or take fire damage equal to your level in this class.
-
-Controlled Explosion
-At 18th level, when you deal you deal additional damage with your Harness Element feature, you can choose to deal the same amount of damage against another creature within 10 feet. You can use this feature a number of times equal to 1 + your Charisma modifier (minimum of twice) and regain your uses of this feature after a short or a long rest.
-
-Earth
-Earthen Toughness
-Starting at 1st level, you gain a number of hit points equal to 1, plus 1 for each level you gain in this class.
-
-In addition, you add your Constitution modifier, instead of your Dexterity, to your AC.
-
-Bone Shattering
-At 1st level, whenever you deal damage to a creature with a weapon attack, you can choose to convert that damage into bludgeoning damage, instead of the normal damage for that weapon.
-
-Stone Armor
-At 3rd level, when you roll initiative, instead of harnessing the elemental energy to a weapon, you can choose to protect a creature with it. Choose one creature, including yourself, that you can see within 30 feet and who is in contact to the ground. Earth and stone from the area raise and engulf that creature, forming a barrier that grants it a number of temporary hit points equal to your Harness Element dice.
-
-Whenever you recharge your Harness Element, you can choose to give these temporary hit points to a creature, as a bonus action. You must choose in the turn in which you have recharged, or else the armor is formed around you.
-
-Elemental Channeling
-At 6th level, you can use your bonus action to channel the power of the earth elemental on a creature you touch. For 1 minute, the touched creature becomes resistant to bludgeoning, piercing and slashing damage.
-
-Once you use this ability, you cannot use it again until you finish a short or long rest.
-
-Spiked Armor
-At 10th level, whenever the Stone Armor reduce damage from a melee weapon attack, the attacker takes piercing damage equal to the damage reduced.
-
-Vital Defense
-At 14th level, whenever a creature you can see within 30 feet takes a critical hit, you can cause it to become a normal hit instead, as a reaction.
-
-Once you use this feature, you can't use it again until you finish a short or long rest.
-
-Shared Protection
-At 18th level, whenever you use your Stone Armor or Elemental Channeling feature to protect another creature, you are also affected by it.
-
-Water
-Flowing River
-At 1st level, you gain swimming speed equal to your movement speed and the ability to breathe underwater.
-
-In addition, your body is coated by a layer of frost, that grants you AC equal to 13 + your Dexterity modifier.
-
-Biting Ice
-When you hit a creature with a weapon attack, you can forgo adding your ability modifier to the damage to, instead, reduce the movement speed of your target in 10 feet until the start of your next turn.
-
-Freeze
-Starting at 3rd level, whenever you deal additional damage with your Harness Element feature, you can use your bonus action to encase that creature in ice. The target must succeed on a Strength saving throw, or is restrained for a number of turns equal to your proficiency bonus. The creature can try again the saving throw at the end of each subsequent turn.
-
-Font of Life
-Also at 3rd level, you can use water to mend the wounds of your allies. If you have a recipient with water on a free hand, you can use your bonus action to pour onto a creature within 5 feet of you. You restore 2d4 + your {{5a|cha}] modifier hit points of the chosen creature. The amount of dice rolled increase to 3d4 at 9th level and 4d4 at 15th level.
-
-You have a number of uses of this feature equal to your proficiency bonus (rounded up). You regain all expended uses when you finish a short or long rest.
-
-Control Water
-At 6th level, you can control the water present on the environment and even on your enemies, to perform powerful abilities. As a bonus action, you can use one of the following controls:
-
-Water Lash: If you have a source of water large enough (DM's decision) that you can see within 30 feet, you can raise a lash of water. Make an melee spell attack with this lash, using your Charisma modifier as your spellcasting ability. On a hit, you deal damage equal to 1d6 + your Charisma modifier, and you move the target 10 feet in any direction. The water lash the vanishes in a splash of water.
-Water Puppet: You can try to control the water on the body of a creature to control its movements. You can cast command as a bonus action, without the verbal components (but needing somatic components), using your Charisma as your spellcasting ability to calculate DC.
-You can use this ability twice, regaining your uses after a short or a long rest.
-
-Tomb of Frost
-At 10th level, whenever a freezed creature with your Freeze ability makes a saving throw, you can use your reaction to impose Disadvantage to it.
-
-Water Master
-Starting at 14th, whenever you roll initiative and have no uses of your Control Water feature, you regain two uses.
-
-Water Form
-At 18th level, you can use your action to assume the shape of water, assuming the form of a Water Elemental for 1 minute. This works as the True Polymorph spell, don't requiring concentration and for the aforementioned duration.
-
-Once you use this ability, you can't use it again until you finish a short or a long rest.
-
-Air
-Speed of the Wind
-At 1st level, you float like wind trough the battlefield. Your movement speed increases in 10 feet while you are in combat.
-
-In addition, whenever you are hit by a ranged attack, you can reduce the damage taken by an amount equal 1d10 + your Dexterity modifier + your level in this class, as a reaction.
-
-Windy Strikes
-Also at 1st level, whenever you make an attack with a weapon as an action, you can use your bonus action to shove a creature within 30 feet of you.
-
-In addition, you can use your Dexterity, instead of Strength for your attack rolls with weapons that lack the heavy or two handed properties.
-
-Storm Blade
-At 3rd level, when you roll initiative and wield a metal weapon, you can provoke a thunderous explosion on a target you can see within 30 feet. That target and any creature within 5 feet of it take 1d6 thunder damage.
-
-Wind Step
-Also at 3rd level, you can make yourself lighter than air. You can take the Dash action as a bonus action and your jump distance doubles.
-
-Shattering Strike
-At 6th level, you can make the power of thunder reverberate inside your target's body. When you hit a creature with a weapon attack, you can choose to deal additional thunder damage equal to your Harness Element dice.
-
-Once you use this feature, you can't use it again until you finish a long rest.
-
-Gust
-At 10th level, whenever you cause damage with your Harness Element feature, you can control the wind around you to move that creature 10 feet to any direction.
-
-Wind Rider
-Starting at 14th level, you can storm trough the battlefield with ease. On your first turn of combat, you can fly with a movement speed equal to twice your movement speed. You must end this movement on the ground, or else you fall aloft.
-
-In addition, you can cast feather fall on yourself, at will.
-
-Primordial Self
-At 18th level, you can use a bonus action, Dash and Disengage action. When you do so, your jump height is tripled.
-
-In addition, when you are under the effects of Harness Element, you can choose to be surrounded by violent winds, imposing disadvantage on any attacks made against you until the start of your next turn. You can use this ability a number of times equal to your Charisma modifier, regaining its uses with a short or long rest.
