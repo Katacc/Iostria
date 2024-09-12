@@ -19,7 +19,7 @@ Causing a sort of cold war between the lower gods. These gods are now making all
 
 
 ## 1.2 Children of the light
-[Contents](#contents)
+[Contents](#Contents)
 
 ### 1.2.1. Zodlios, The God of Justice 
 Other names: The god of cruelty, The god of strength  
@@ -60,7 +60,7 @@ Main codes of conduct;
    	- Organized civilication is the death of free thinking.  
 
 ## 1.3 Children of Nature
-[Contents](#contents)
+[Contents](#Contents)
 
 ### 1.3.1. Chisemis, The God of the earth (rocks, ground etc)  
 Other names: Father earth  
@@ -90,7 +90,7 @@ Main codes of conduct;
 	-...  
 
 ## 1.4 Children of the dark
-[Contents](#contents)
+[Contents](#Contents)
 
 ### 1.4.1. Danir, The God of Desire  
 Other names:  The god of envy, The god of greed  
@@ -131,7 +131,7 @@ Main codes of conduct;
 
 
 # 2. DEATH AND THE GREAT MIST	
-[Contents](#contents)
+[Contents](#Contents)
 
 
 
@@ -165,7 +165,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 # 3. DEMIGODS
-[Contents](#contents)
+[Contents](#Contents)
 
 
 ## 3.1. Edward 'The undead' Thorn
@@ -191,11 +191,11 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
 # 4. LARGE CITIES & NOTABLE PLACES
-[Contents](#contents)
+[Contents](#Contents)
 
 
 ## 4.1. Airedale
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
@@ -221,7 +221,7 @@ Airedales and the whole kingdom's official religion is to the light pantheon of 
 
 
 ## 4.2. The King
-[Contents](#contents)
+[Contents](#Contents)
 
 
 The kingdom was ruled by the old King Artorias V, who was a wise and mostly peaceful ruler. The royal family consisted of King Artorias, Queen Priscilla and their son Prince Artorias VI. When the prince was only four years old the Queen became severely ill and after six months of struggle died of her illness. After a while the King got remarried to Queen Sylvia, and had a second son Prince Oceiros. Things were mostly good and the two Princes grew up together. Prince Artorias grew up a fierce warrior who had the respect of the people and of his father the king. Prince Oceiros grew up living in the shadow of his older half-brother and slowly got tired of his brother always getting all the attention and he started to despise him. People called Artorias the future king and this only helped fuel Oceiros’s  secret hatred for him. The Queen also secretly hated Prince Artorias as he was first in line for the throne but she wanted her son to take the throne instead. 
@@ -235,7 +235,7 @@ After Prince Artorias and the men few loyal to him were exiled they have set up 
 
 
 ## 4.3. Stratham
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Population:
@@ -265,7 +265,7 @@ The road to Stratham isn’t the easiest. If  you wish to travel to Stratham the
 
 
 ## 4.4. Claton
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is the Kingdom's trade centre and it consists of many towns and villages built around a central city that is a hub for trade. Claton is under the Kingdom's direct command and follows laws set by the Kingdom and pay’s taxes to the Kingdom. Because of this the city guards are a part of the Kingdom's army and there are many garrisons of soldiers in and around Claton.
@@ -284,7 +284,7 @@ Everything basic and less basic can be bought from the numerous shops and stalls
 
 
 ## 4.5. Klarth
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is an ancient city built by dwarves millenia ago. It’s located in northern central Iostria just beyond The tribal valley. Klarth was originally built as a dwarven fortress during ancient times and so half of the city has been carved into the mountainside. Klarth is famous across all the continents for their master smithing work, they forge the best equipment in iostria built from one of the most sought after materials: Dragonium. 
@@ -299,7 +299,7 @@ Getting into Klarth itself is another problem if you even manage to get there. T
 
 
 ## 4.6. Mirfield
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is the single largest trading post in all of Iostria. Around 11 000 people live within Mirfield and thousands more in the smaller towns around it.
@@ -316,7 +316,7 @@ The council rules from the top floor of the largest building in the center of Mi
 
 
 ## 4.7. Everwinter
-[Contents](#contents)
+[Contents](#Contents)
 
 
 This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources.
@@ -327,7 +327,7 @@ Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs,
 
 
 ## 4.8. Zoavoarren
-[Contents](#contents)
+[Contents](#Contents)
 
 
 City of dragonborn, hidden from everything inside the mountains of the island of the dragons. The mountains hide around 1,300 dragonborn and their ancient civilization runs on the very foundation of our world, magma. The Mountains hide a lot of Dragonium, the rarest metal in the continent.
@@ -336,7 +336,7 @@ The depths of the mountais hides a massive portal between worlds, The portal to 
 
 
 ## 4.9. The traveler’s path
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.  
@@ -347,7 +347,7 @@ Some cities fights for the control of the route.
 
 
 ## 4.10. The phantasmal forest
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is the largest single forest in Iostria, located just north-east of Claton. It's the home to many small villages and even some towns lay hidden in the trees, most of them are “normal” settlements with travelers and merchants visiting the inns and trading with the locals. But some of the villages deep within the woods have no contact with the outside world. They live off the forest eating the many edible plants and the berries or by hunting some of the many animals in the forest.  
@@ -362,7 +362,7 @@ The phantasmal forest is said to be a magical place with many forest druids prac
 
 
 ## 4.11. The simmering swamp
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Located in a volcanically active part of  Iostria the simmering swamp lies in between the lost desert and the mountains north of Barataria Bay.
@@ -371,14 +371,14 @@ Located in a volcanically active part of  Iostria the simmering swamp lies in be
 
 
 ## 4.12. The lost desert 
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
 
 ## 4.13. The tribal valley
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is a giant valley in central Iostria that stands before the entrance to Klarth. Most of Iostria’s orcs, giants, goblins and barbarian clans live there, thus most people steer clear of it. 
@@ -387,7 +387,7 @@ Many armies have tried to conquer the tribal valley, all of them have failed. Ma
 
 
 ## 4.14. The fishermans bay
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Is the bay area located south-west of Claton. It is the most sea life rich place in Iostria. Thus there are numerous towns and villages along the shoreline that live off fishing in these waters.
@@ -398,7 +398,7 @@ It is legend that the reason for the abnormally large amount of fish in these wa
 
 
 ## 4.15. Barataria Bay
-[Contents](#contents)
+[Contents](#Contents)
 
 
 Barataria Bay is not recognized by the kingdom of Airedale as an official city, but rather as a rebel camp of pirates and outlaws, but in reality it is far from it. Barataria Bay is a collection of large towns and villages with a population of around 9000. It is a semi “lawless place” ruled by a council of democratically elected pirate lords who set the laws and collect taxes.
@@ -415,7 +415,7 @@ There is no official town guard or police force, since it’s more of a place of
  
  
 # 5. Races
-[Contents](#contents)
+[Contents](#Contents)
 
 
 ## 5.1. Human
@@ -442,7 +442,7 @@ _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see
 
 
 ## 5.3. Ashen one 
-[Contents](#contents)
+[Contents](#Contents)
 An Ashen one is a soul freed from Death's realm that had no body to go to so it manifested itself as a demonic figure, largely recembelling the appearance of a hollow one but more complete and not shadowy.
 
 ### 5.3.1. Traits
@@ -517,7 +517,7 @@ _**Unholy heal**._ As an action, Unleash a red stream of light that seems like b
 
 
 ## 5.4. Tiefling of Iostria
-[Contents](#contents)
+[Contents](#Contents)
 
 A Tiefling of Iostria is a mixture between a human and an Ashen one. They are considered rare in Iostria and most of them live in Everwinter, but small amounts of Tieflings can be found all over the continent.
 
@@ -527,13 +527,13 @@ In modern Tieflings there is only a small percentage of ashen one left because o
 Shares the stats and traits with Tiefling.
 
 ## 5.5. Dragonborn
-[Contents](#contents)
+[Contents](#Contents)
 
 Big, standing, Dragon-like creatures, Born from original dragons, Resides on an isolated island called Zoavoarren. They live deep inside the volcanoes, harnessing the power of lava. 
 
 
 ## 5.6. Warforged
-[Contents](#contents)
+[Contents](#Contents)
 
 Warforged come's from a neighbouring continent and are pretty rare in Iostria. Some old warforged have retired from battling and put up shops and offer services to other warforged.
 
@@ -574,7 +574,7 @@ Gnomes lives in vast majority of places depending on their subrace.
 
 
 # 6. Monsters
-[Contents](#contents)
+[Contents](#Contents)
 
 
 ## 6.1. Werewolf
@@ -585,7 +585,7 @@ Gnomes lives in vast majority of places depending on their subrace.
 
 
 # 7. Mechanics
-[Contents](#contents)
+[Contents](#Contents)
 
 
 ## 7.1. Body decaying
@@ -606,7 +606,7 @@ You have 2 options for using healing potions in combat
 
 
 # 8. Magic Items
-[Contents](#contents)
+[Contents](#Contents)
 
 ## 8.1 Sword of revenance
 A black longsword-greatsword hybrid, uses the stat sheet of a longsword+1
@@ -673,14 +673,14 @@ Cannot do ranged attack to a target on melee range
 
 
 # 9. Battles and politics
-[Contents](#contents)
+[Contents](#Contents)
 
 ## 9.1 Control of the Traveler's path
 The biggest political fight over territory in Iostria. For decades, Airedale have been trying to get taxation on the whole traveler's path, and Everwinter has been trying to allso get hold of the northern part of the path wich has led to many wars between the cities. Nowadays the direct battling has ceased, but there is still assasinations and tries to destroy the other one by other means. Mirfield has gotten some backslash bc it resides in the middle of the battle
 
 
 # 12. Custom Classes
-[Contents](#contents)
+[Contents](#Contents)
 
 ## 12.1. Elemental Fighter (5e Class)
 
