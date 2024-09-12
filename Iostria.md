@@ -15,7 +15,7 @@
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. 
-Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.
+Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.  
 
 
 ### 1.2 Children of the light
