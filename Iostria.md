@@ -4,6 +4,9 @@
 
 # Contents
 
+```toc
+```
+
 - [Contents](#contents)
 	- [1 The Gods](#1-the-gods)
 		- [1.1 Izotl The god of gods](#11-izotl-the-god-of-gods)
