@@ -23,5 +23,10 @@ AddType application/javascript .js
     Header set Content-Disposition "inline"
 </Files>
 
+<Files iostria.html>
+    Header set Content-Type "text/html; charset=UTF-8"
+    Header set Content-Disposition "inline"
+</Files>
+
 # Enable CORS for all resources
 Header set Access-Control-Allow-Origin "*"
