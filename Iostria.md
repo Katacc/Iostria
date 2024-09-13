@@ -6,8 +6,8 @@ github: https://github.com/Katacc/Iostria
 
 ## Contents
 
-[TOC]
-
+```table-of-contents
+```
 
   
 ## 1 The Gods
