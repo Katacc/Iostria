@@ -691,7 +691,7 @@ Cannot do ranged attack to a target on melee range
 
 
 ## 9 Battles and politics
-<hr>
+<hr style="margin-top: -2px;">
 
 [Contents](#Contents)
 
