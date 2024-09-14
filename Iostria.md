@@ -689,6 +689,26 @@ Cannot do ranged attack to a target on melee range
 
 **High-powered jet engine:** Allows your maul to thrust you forward and perform an high impact attack.
 
+### Thunderous battleaxe
+
+**Weapon type:** Greataxe  
+**Damage:** *1d12* slashing  
+**Weight:** 30 lbs.  
+**Magic Item:** +1  
+
+Built by Miranda and a legendary magic smith from klarth  
+
+**Max Charges:** Charisma modifier  + 1  
+**Regain:** *1d4* charges during long rest if the guitar is being played  
+
+**Deafening slash:**
+On a succesfull hit, the guitar strings reverberate with a deafening sound. You can unleash **thunderous chord**, dealing additional *1d4 + char modifier* thunder damage to the target and all creatures within 5 feet must succeed a *con* saving throw against your spell save DC. Upon failed save, creature is deafened for 1 minute. **Uses one charge**
+
+**Cleave:**
+Upon reducing a creature to 0 hit points with this weapon (melee attack), you may use your reaction to cleave through to another enemy within 5 feet, dealing half of the initial damage. **Uses one charge**
+
+**Chords of thunder:**
+You may smash your axe to the ground, summoning lightning upon your area. Each creature in 20feet radius takes *dex* saving throw against your spell save dc. Upon failed save, takes *1d8* thunder damage. **Uses two charges**  tuh
 
 ## 9 Battles and politics
 <hr style="margin-top: -2px;">
