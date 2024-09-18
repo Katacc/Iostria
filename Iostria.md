@@ -32,10 +32,10 @@ They are the ultimate creators of all life on Iostria, and as such they both hav
 [Contents](#Contents)
 
 #### Zodlios, The Deity of Justice 
-Other names: The god of cruelty, The god of strength  
+Other names: The deity of cruelty, The deity of strength  
 Worshipped by the king and is the god of the great kingdom based in Airedale. As such their main temple is also located there.  
 Holy symbol is the sun held over on the tip of a sword.  
-They are one of the frontrunners among the gods to attain Izotls old position as a supreme deity.  
+They dream of becoming a supreme god, and have begun to develop plans to subjugate the other deities.
 Zodlios considers themselves to be above the other gods and all mortals. As such they considers mortals as ants, only fit to serve as their slaves. This ofcourse is unknown among the mortal public.  
 Unlike other gods, Zodlios does not have a physical form that they can take. This is of choice as they see physical forms to be pointless pandering to mortals.  
    
