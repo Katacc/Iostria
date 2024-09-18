@@ -18,10 +18,7 @@ Those are the four primordial elementals, the Light and the Dark and Death.
 
 [Contents](#Contents)
 ### The four primordial elements  
-	- Fire
- 	- Water
-  	- Earth
-   	- Air
+	 Fire - Water - Earth - Air  
 These elemental primordials are believed to be the creators of the land of Iostria. Not much else is known of them today, but some are still worshipped by tribespeople around Iostria.  
 
 ### The Light & Dark
