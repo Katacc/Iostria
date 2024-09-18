@@ -31,7 +31,7 @@ They are the ultimate creators of all life on Iostria, and as such they both hav
 
 [Contents](#Contents)
 
-#### Zodlios, The Deity of Justice 
+### Zodlios, The Deity of Justice 
 Other names: The deity of cruelty, The deity of strength  
 Worshipped by the king and is the god of the great kingdom based in Airedale. As such their main temple is also located there.  
 Holy symbol is the sun held over on the tip of a sword.  
