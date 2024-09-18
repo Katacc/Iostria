@@ -1,7 +1,6 @@
 # Iostria
 github: https://github.com/Katacc/Iostria  
-kt_test
-main_test_test_test
+
 ![kartta](DD_kartta_pohja.jpg)
 
 
