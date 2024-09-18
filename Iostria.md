@@ -59,11 +59,11 @@ Holy symbol is an owl
 Most of her worshippers and the main temple of Hecateus are located in Stratham.  
 
 Affinities & Connections:
-	- Born as a child of light
-	- Does not mind the dark gods, but has some hesitations about them
-	- Twin siblings with Dhemes
+	- Born as a child of light  
+	- Does not mind the dark gods, but has some hesitations about them  
+	- Twin siblings with Dhemes  
 Physical form:  
-	- Usually takes the form of an older Owlin female wearing glasses
+	- Usually takes the form of an older Owlin female wearing glasses  
 
 Main codes of conduct;  
 	- Strive for enlightenment through academics.  
