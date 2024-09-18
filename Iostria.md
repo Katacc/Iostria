@@ -10,26 +10,43 @@ github: https://github.com/Katacc/Iostria
 ```
 
   
-## 1 The Gods
+## 1 The Primordials
+<hr style="margin-top: -2px;">  
+
+The Primordials are a line of elemental figures that have existed since before time. They are completely immortal and shouldn't be regarded as "gods" as they aren't really beings, but rather forces of nature. There are seven known primodial beings.  
+Those are the four primordial elementals, the Light and the Dark and Death.
+
+[Contents](#Contents)
+### The four primordial elements  
+	- Fire
+ 	- Water
+  	- Earth
+   	- Air
+These elemental primordials are believed to be the creators of the land of Iostria. Not much else is known of them today, but some are still worshipped by tribespeople around Iostria.  
+
+### The Light & Dark
+The Light and Dark are primordial beings that are widely regarded as the creators of all life on Iostria. It is said that together they created the mortals, but they disagreed on how they should live.  
+As such they both created a pantheon of gods to keep watch over the human population.  
+They are the ultimate creators of all life on Iostria, and as such they both have large tribal followings around Iostria.
+
+## 2 The Gods
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
 
-### Izotl The god of gods
-other names: The one above all, The creator  
-He is the Father of all the other gods.  
-He ruled Iostria for millennia but has recently dissapeared leaving his seat as the supreme god. 
-Causing a sort of cold war between the lower gods. These gods are now making alliances and vying for power over each other.  
-
-
-### Children of the light
-[Contents](#Contents)
-
-#### Zodlios, The God of Justice 
+#### Zodlios, The Deity of Justice 
 Other names: The god of cruelty, The god of strength  
-Worshipped by the king and is the god of the great kingdom based in Airedale. As such his main temple is also located there.  
+Worshipped by the king and is the god of the great kingdom based in Airedale. As such their main temple is also located there.  
 Holy symbol is the sun held over on the tip of a sword.  
-He is one of the frontrunners among the gods to attain Izotls old position as a supreme deity.  
+They are one of the frontrunners among the gods to attain Izotls old position as a supreme deity.  
+Zodlios considers themselves to be above the other gods and all mortals. As such they considers mortals as ants, only fit to serve as their slaves. This ofcourse is unknown among the mortal public.  
+Unlike other gods, Zodlios does not have a physical form that they can take. This is of choice as they see physical forms to be pointless pandering to mortals.  
+   
+Affinities & Connections:  
+	- Born as a child of light  
+	- Does not associate with the dark in any way
+Physical form:
+	- None
 
 Main codes of conduct;  
 	- The law is absolute.  
@@ -38,11 +55,18 @@ Main codes of conduct;
 	- Strenght through law & order.  
  	- Creatures with no laws or gods should be treated as subhuman.  
 
-#### Hecataeus, The God of wisdom
+#### Hecataeus, The Goddess of wisdom
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl  
-Most of his worshippers and the main temple of Hecateus are located in Stratham.  
+Most of her worshippers and the main temple of Hecateus are located in Stratham.  
+
+Affinities & Connections:
+	- Born as a child of light
+	- Does not mind the dark gods, but has some hesitations about them
+	- Twin siblings with Dhemes
+Physical form:  
+	- Usually takes the form of an older Owlin female wearing glasses
 
 Main codes of conduct;  
 	- Strive for enlightenment through academics.  
@@ -56,51 +80,31 @@ Worshipped by those who are obsessed with the acquisition of knowledge to the po
 Holy symbol is a celtic kraken  
 People driven to the brink of their sanity are said to start hearing wispers and voices in their head, this is Dhemes taking advantage of mentally unstable beings to do his bidding.  
 The exact location of his main temple is not known, but it is said to be located somewhere in the desert surrounding Stratham.  
- 
+
+Affinities & Connections:
+	- Born as a child of light
+	- Completely disregards any limits or differences of the light and dark gods
+	- Twin siblings with Hecataeus
+Physical form:
+	- Usually takes the form of an early 30s something human male dressed in a fancy black suit with a deep purple tie and handkerchief
+
 Main codes of conduct;  
 	- No such thing as forbidden knowlegde  
  	- Nothing should be treated as an absolute not even death.  
   	- The natural state of the world is chaos, as such strive to create chaos where ever possible.  
    	- Organized civilication is the death of free thinking.  
 
-### Children of Nature
-[Contents](#Contents)
-
-#### Chisemis, The God of the earth (rocks, ground etc)  
-Other names: Father earth  
-worshipped by the dwarves, rock gnomes and the people of klarth  
-Holy symbol is a shield with a picture of a mountain.  
-Main temple is located deep inside a mountain, accesible from Klarth.  
-
-Main codes of conduct;  
-	-...  
-
-#### Cephine, The Goddess of the Wilderness (forests, swamps etc)  
-Other names: Mother nature, Goddess of harvest  
-worshipped by the wood elves, tree gnomes and the people within The Phantasmal forest and the Simmering swamp.  
-Holy symbol is a scythe and a stack of hay  
-Her main temples location is also somewhat a mystery, but it is known that it lies somewhere deep within the Phantasmal forest.  
-
-Main codes of conduct;  
-	- All things can exist together in harmony  
-
-#### Lognar, The God of water and the seas  
-Other names: Master of the sea  
-worshipped by sailors and fishermen.  
-Holy symbol is a Trident  
-His main temple is located on an island near the shores of Barataria bay.  
-
-Main codes of conduct;  
-	-...  
-
-### Children of the dark
-[Contents](#Contents)
-
 #### Danir, The God of Desire  
 Other names:  The god of envy, The god of greed  
 Mainly worshipped by people that place themselves infront of others, as such most of his followers are Merchants, criminals and others seeking power through wealth.  
 Holy symbol is a dagger with fancy inlays and jewels  
 Main temple lies within the city of Mirfield.  
+
+Affinities & Connections:
+	- Born as a child of dark
+ 	- Doesn't mind co-operating with the light as long as it benefits him
+Physical form:
+	- Usually takes the form of an older tabaxi male dressed in a robe with golden inlays and plenty of jewlery
 
 Main codes of conduct;  
 	- Allways place your own needs above others.  
@@ -114,24 +118,63 @@ Worshipped by the poor, the unfortunate and pacifists
 Holy symbol is a crescent moon 
 Main temple is located within the walls of Everwinter  
 
+Affinities & Connections:
+	- Born a child of dark
+ 	- Completelly ignores the limits and differences between the light and dark
+Physical form:
+	- Usually takes the form of a young dark elf woman wearing rags 
+
 Main codes of conduct;  
 	- Never turn your back on someone in need of help  
 	- Everyone deserves a second chance  
 	- Violence is the last option  
 	- Too much of anything is a way to corruption so do not desire what you don’t need  
 	- It is the duty of the strong to protect those weaker then themselves  
+ 	- The ends justify the needs  
 
 
-#### Medona, The Goddess of Joy
-Other names: The goddess of alcohol, goddess of art  
+#### Medona, The God of Joy  
+Other names: The god of alcohol, god of art  
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice  
 Main temple is located in Mirfield.  
+
+Affinities & Connections:
+	- Born a child of dark
+ 	- Mostly sticks to the dark but not completely opposed to the light
+Physical form:
+	- Almost allways takes the form of a handsome young adult high elf male wearing fancy attire
 
 Main codes of conduct;  
 	- Follow your instincts & do whatever you feel like.  
  	- The show must allways go on.  
   	- Life is better when you are a bit tipsy.  
+
+### Vulnas, The god of the forge  
+Vulans is different to the other gods, since he wasn't created by either the Light or the dark. Rather it is told that he is the physical manifestation of the primordial elements of fire and earth. A being forged by one of the first legendary mortal blacksmiths.  
+As such he is considered to be one of the most physically strong gods, not that he cares. It is said that earthquakes around Klarth are caused by him swinging his godly forging hammer.  
+Worshipped by most dwarves and blacksmiths around Iostria  
+Holy symbol is an anvil surrounded by flames  
+Main temple is located in Klarth  
+
+Affinities & Connections:  
+	- Born as a creation of a legendary mortal blacksmith, a manifestation of the primordial elements of fire and earth  
+	- Keeps to himself and is not concerned with the light or dark  
+Physical form:  
+	- His physical form is a dwarf golem made of adamantium.  
+
+ ### Armos & Armis The twin goddesses of the harvest & hunt  
+ Sometimes mistakenly referred to as a single deity, the twin sisters Armos and Armis were created in an attempt of collaboration with the Light and Dark. At first they were supposed to be a single deity, but split due to inherent differences in the primordials.  
+ Armos is the goddess of the harvest and Armis is the goddess of the hunt. They also share divine providence as both are considered goddesses of fertility and wild animals.  
+ They are worshipped by most farmers hunters and wood elves.  
+ Their main temple is located deep within the Phantasmal forest.  
+ They share a holy symbol of a longhorned deer  
+
+ Affinities & Connections:  
+ 	- They were born as children of both dark and light
+  	- As such they are considered to be truly neutral among the gods, and are well respected among all the other deities  
+Physical form:  
+	- They often appear as wild animals allthough sometimes when conversing with others, they will take the forms of middle aged wood elf women wearing tribal clothes   
 
 
 ## 2 DEATH AND THE GREAT MIST
@@ -152,9 +195,10 @@ Usually mist walkers are wise and careful and manage to return to the realm of t
 In Iostria Death is not a god per say but they do possess some god-like powers.
 Some call Death a “curse” but some realize that they are a necessity.
 
-Izotl created Death from the first mortal eons ago. He commanded them to reap the unworthy of their souls until someone strong enough relieved Death of their duties. He made it so that Death is unphased by the passing of time and is not affected by mortal disease, but he is not immortal Death can be killed by means of steel or magic, though only by mortals. Izotl created Death to not be affected by any of the other gods and vice versa Death cannot harm any being of divine origin and they can’t harm him. 
+Death is a primordial curse that has allways plagued all mortals. The curse commands its bearer to reap the unworthy of their souls until someone strong enough relieved Death of their duties. The curse makes it so that Death is unphased by the passing of time and is not affected by mortal disease, but he is not immortal Death can be killed by means of steel or magic, though only by mortals.  
+The curse makes Death unable to be affected by any of the other gods and vice versa. Death cannot harm any being of divine origin and they can’t harm him. 
 
-The person to defeat Death in combat will become Death and absorb not only his powers but also the knowledge of all the Deaths that came before. And only by being relieved of their duties can the old Death's soul be released to the great beyond.
+The person to defeat Death in combat will become Death and absorb not only his powers but also the curse of Death. This also gives them the knowledge of all the Deaths that came before. And only by being relieved of their duties can the old Death's soul be released to the great beyond.
 
 Why someone would want to become Death is for reasons of their own, maybe they seek to free the soul of a loved one or maybe they seek eternal life. 
 
@@ -175,12 +219,26 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 [Contents](#Contents)
 
+### Novor the goddess of murder
+
+The story of Novor is truly a tragic one. While her mother was pregnant with them, they were taken and made to be a human sacrifice to a pagan god by a group of occultist. Her mother was killed as a sacrifice, but before the childs soul could pass on to the great mist, Dhemes who had been watching grabbed the childs soul. For unknown reasons to anyone maybe even Dhemes, he made the child a demigod and raised her as her own.  
+The result is a twisted being obsessed with murder, known as Novor the goddess of murder.  
+
+She is worshipped by occultist and psychotic murderers around Iostria. The location of her main temple is unkown.  
+Her holy symbol is a sacrificial dagger covered in blood.
+
+Affinities & Connections:  
+	- Born to a mortal woman and raised as a demigod by Dhemes.
+ 	- Like her father she disregards limits set by the Light and Dark and is guided by her bloodlust
+Physical form:
+	-Her physical form is one of a young human girl wearing a dress covered in blood and she is allways wielding the sacrificial dagger that killed her mother.  
 
 ### Edward 'The undead' Thorn
 
 Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod” df
-He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.
-
+He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.  
+  
+Edward is worshipped by most fishermen and pirates. His temple is located on an island near the coast of Barataria bay.
 
 ### The Monstrosities
 
@@ -192,7 +250,8 @@ Some consider these monstrosities "demigods” because of their raw strength the
 #### Yuan-ti
 Yuan-ti is a gigantic serpent that's said to live somewhere deep within the phantasmal forest.  It used to wander around devouring entire villages until it took residence in a cave that has now became its lair, some tribes within the phantasmal forest started worshipping the serpent as a god of primal nature unknowing of its true origins.
 
-These tribes bring sacrifices to the serpent's lair to keep his hunger in check, so that it doesn’t start rampaging once more. These tribes have been worshipping the serpent for many millenium and they have been affected by its powers. Modern tribesmen have been physically deformed by Yuan-ti’s power. They are  somewhere in between human and serpent, they have also lost most of their humanity, mostly acting on their animalistic instincts. They still live in tribes where most of them hunt food and bring it to Yuan-ti’s lair.
+These tribes bring sacrifices to the serpent's lair to keep his hunger in check, so that it doesn’t start rampaging once more. These tribes have been worshipping the serpent for many millenium and they have been affected by its powers. Modern tribesmen have been physically deformed by Yuan-ti’s power. They are  somewhere in between human and serpent, they have also lost most of their humanity, mostly acting on their animalistic instincts.  
+They still live in tribes where most of them hunt food and bring it to Yuan-ti’s lair.
 
  It is very rare to see one of these tribes' people but they have sometimes been seen on the edges of the phantasmal forest. They are very aggressive towards other creatures and will try to kill and bring back anything living they find.
 Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
@@ -331,7 +390,7 @@ The council rules from the top floor of the largest building in the center of Mi
 
 This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources.
 
-The mountains around Everwinter are the most ore rich ground that has been found in Iostria and it contains many rare elements including Dragonium the most sought after metal in Iostria. Other ores can be found in the mountains such as  Iron, copper, Gold, Nickel, Electrum, Silver. Even some gemstones have been found in the mountains.  
+The mountains around Everwinter are the most ore rich ground that has been found in Iostria and it contains many rare elements including Adamantium the most sought after metal in Iostria. Other ores can be found in the mountains such as  Iron, copper, Gold, Nickel, Electrum, Silver. Even some gemstones have been found in the mountains.  
 
 Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
