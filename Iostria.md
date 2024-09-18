@@ -52,7 +52,7 @@ Main codes of conduct;
 	- Strenght through law & order.  
  	- Creatures with no laws or gods should be treated as subhuman.  
 
-#### Hecataeus, The Goddess of wisdom  
+### Hecataeus, The Goddess of wisdom  
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl  
@@ -71,7 +71,7 @@ Main codes of conduct;
   	- Some things are beyond the understanding of mortals, such things lead a mortal mind to corruption.  
    	- Respect other creatures cultures and their faith.   
 
-#### Dhemes The God of madness 
+### Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters  
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers  
 Holy symbol is a celtic kraken  
@@ -91,7 +91,7 @@ Main codes of conduct;
   	- The natural state of the world is chaos, as such strive to create chaos where ever possible.  
    	- Organized civilication is the death of free thinking.  
 
-#### Danir, The God of Desire  
+### Danir, The God of Desire  
 Other names:  The god of envy, The god of greed  
 Mainly worshipped by people that place themselves infront of others, as such most of his followers are Merchants, criminals and others seeking power through wealth.  
 Holy symbol is a dagger with fancy inlays and jewels  
@@ -109,7 +109,7 @@ Main codes of conduct;
   	- Promises & honor mean nothing if you are dead.  
    	- Don't give people the opportunity to betray you.  
 
-#### Adrena, The Goddess of Kindness  
+### Adrena, The Goddess of Kindness  
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
@@ -130,7 +130,7 @@ Main codes of conduct;
  	- The ends justify the needs  
 
 
-#### Medona, The God of Joy  
+### Medona, The God of Joy  
 Other names: The god of alcohol, god of art  
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice  
