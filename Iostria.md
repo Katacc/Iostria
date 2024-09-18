@@ -1,6 +1,12 @@
 # Iostria
 github: https://github.com/Katacc/Iostria  
+<<<<<<< HEAD
 test_vt
+||||||| 94866df
+
+=======
+test_kt
+>>>>>>> 1263b67a14d3695280b63a237725317f827d1793
 ![kartta](DD_kartta_pohja.jpg)
 ## Contents
 ```table-of-contents
