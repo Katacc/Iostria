@@ -21,8 +21,6 @@ The Light and Dark are primordial beings that are widely regarded as the creator
 As such they both created a pantheon of gods to keep watch over the human population.  
 They are the ultimate creators of all life on Iostria, and as such they both have large tribal followings around Iostria.
 
-primordial test  
-here we write lore of the primordials
 
 ## 2 The Gods
 <hr style="margin-top: -2px;">
@@ -735,7 +733,6 @@ Target creature within 5 feet of you, takes *2d8 impact damage* and has to succe
 **Damage:** *2d4* magic, single target
 Cannot do ranged attack to a target on melee range
 
-added test
 
 ##### Engines
 
