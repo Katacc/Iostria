@@ -41,9 +41,9 @@ Unlike other gods, Zodlios does not have a physical form that they can take. Thi
    
 Affinities & Connections:  
 	- Born as a child of light  
-	- Does not associate with the dark in any way
-Physical form:
-	- None
+	- Does not associate with the dark in any way  
+Physical form:  
+	- None  
 
 Main codes of conduct;  
 	- The law is absolute.  
@@ -52,13 +52,13 @@ Main codes of conduct;
 	- Strenght through law & order.  
  	- Creatures with no laws or gods should be treated as subhuman.  
 
-#### Hecataeus, The Goddess of wisdom
+#### Hecataeus, The Goddess of wisdom  
 Other names: The wise one, The enlightened one  
 worshipped by most scholars and wizards  
 Holy symbol is an owl  
 Most of her worshippers and the main temple of Hecateus are located in Stratham.  
 
-Affinities & Connections:
+Affinities & Connections:  
 	- Born as a child of light  
 	- Does not mind the dark gods, but has some hesitations about them  
 	- Twin siblings with Dhemes  
@@ -78,12 +78,12 @@ Holy symbol is a celtic kraken
 People driven to the brink of their sanity are said to start hearing wispers and voices in their head, this is Dhemes taking advantage of mentally unstable beings to do his bidding.  
 The exact location of his main temple is not known, but it is said to be located somewhere in the desert surrounding Stratham.  
 
-Affinities & Connections:
-	- Born as a child of light
-	- Completely disregards any limits or differences of the light and dark gods
-	- Twin siblings with Hecataeus
-Physical form:
-	- Usually takes the form of an early 30s something human male dressed in a fancy black suit with a deep purple tie and handkerchief
+Affinities & Connections:  
+	- Born as a child of light  
+	- Completely disregards any limits or differences of the light and dark gods  
+	- Twin siblings with Hecataeus  
+Physical form:  
+	- Usually takes the form of an early 30s something human male dressed in a fancy black suit with a deep purple tie and handkerchief  
 
 Main codes of conduct;  
 	- No such thing as forbidden knowlegde  
@@ -97,11 +97,11 @@ Mainly worshipped by people that place themselves infront of others, as such mos
 Holy symbol is a dagger with fancy inlays and jewels  
 Main temple lies within the city of Mirfield.  
 
-Affinities & Connections:
-	- Born as a child of dark
- 	- Doesn't mind co-operating with the light as long as it benefits him
-Physical form:
-	- Usually takes the form of an older tabaxi male dressed in a robe with golden inlays and plenty of jewlery
+Affinities & Connections:  
+	- Born as a child of dark  
+ 	- Doesn't mind co-operating with the light as long as it benefits him  
+Physical form:  
+	- Usually takes the form of an older tabaxi male dressed in a robe with golden inlays and plenty of jewlery  
 
 Main codes of conduct;  
 	- Allways place your own needs above others.  
@@ -109,17 +109,17 @@ Main codes of conduct;
   	- Promises & honor mean nothing if you are dead.  
    	- Don't give people the opportunity to betray you.  
 
-#### Adrena, The Goddess of Kindness
+#### Adrena, The Goddess of Kindness  
 Other names: The goddess of the unwanted, The goddess of charity, The kind one  
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
 Main temple is located within the walls of Everwinter  
 
-Affinities & Connections:
-	- Born a child of dark
- 	- Completelly ignores the limits and differences between the light and dark
-Physical form:
-	- Usually takes the form of a young dark elf woman wearing rags 
+Affinities & Connections:  
+	- Born a child of dark  
+ 	- Completelly ignores the limits and differences between the light and dark  
+Physical form:  
+	- Usually takes the form of a young dark elf woman wearing rags  
 
 Main codes of conduct;  
 	- Never turn your back on someone in need of help  
@@ -135,12 +135,12 @@ Other names: The god of alcohol, god of art
 Worshipped by most bards, drunks and other performers  
 Holy symbol is a bottle pouring wine into a chalice  
 Main temple is located in Mirfield.  
-
-Affinities & Connections:
-	- Born a child of dark
- 	- Mostly sticks to the dark but not completely opposed to the light
-Physical form:
-	- Almost allways takes the form of a handsome young adult high elf male wearing fancy attire
+  
+Affinities & Connections:  
+	- Born a child of dark  
+ 	- Mostly sticks to the dark but not completely opposed to the light  
+Physical form:  
+	- Almost allways takes the form of a handsome young adult high elf male wearing fancy attire  
 
 Main codes of conduct;  
 	- Follow your instincts & do whatever you feel like.  
@@ -168,7 +168,7 @@ Physical form:
  They share a holy symbol of a longhorned deer  
 
  Affinities & Connections:  
- 	- They were born as children of both dark and light
+ 	- They were born as children of both dark and light  
   	- As such they are considered to be truly neutral among the gods, and are well respected among all the other deities  
 Physical form:  
 	- They often appear as wild animals allthough sometimes when conversing with others, they will take the forms of middle aged wood elf women wearing tribal clothes   
@@ -216,18 +216,18 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 [Contents](#Contents)
 
-### Novor the goddess of murder
-
+### Novor the goddess of murder  
+  
 The story of Novor is truly a tragic one. While her mother was pregnant with them, they were taken and made to be a human sacrifice to a pagan god by a group of occultist. Her mother was killed as a sacrifice, but before the childs soul could pass on to the great mist, Dhemes who had been watching grabbed the childs soul. For unknown reasons to anyone maybe even Dhemes, he made the child a demigod and raised her as her own.  
 The result is a twisted being obsessed with murder, known as Novor the goddess of murder.  
 
 She is worshipped by occultist and psychotic murderers around Iostria. The location of her main temple is unkown.  
-Her holy symbol is a sacrificial dagger covered in blood.
-
+Her holy symbol is a sacrificial dagger covered in blood.  
+  
 Affinities & Connections:  
-	- Born to a mortal woman and raised as a demigod by Dhemes.
- 	- Like her father she disregards limits set by the Light and Dark and is guided by her bloodlust
-Physical form:
+	- Born to a mortal woman and raised as a demigod by Dhemes.  
+ 	- Like her father she disregards limits set by the Light and Dark and is guided by her bloodlust  
+Physical form:  
 	-Her physical form is one of a young human girl wearing a dress covered in blood and she is allways wielding the sacrificial dagger that killed her mother.  
 
 ### Edward 'The undead' Thorn
@@ -235,7 +235,7 @@ Physical form:
 Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod” df
 He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.  
   
-Edward is worshipped by most fishermen and pirates. His temple is located on an island near the coast of Barataria bay.
+Edward is worshipped by most fishermen and pirates. His temple is located on an island near the coast of Barataria bay.  
 
 ### The Monstrosities
 
