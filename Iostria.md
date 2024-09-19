@@ -156,7 +156,8 @@ Affinities & Connections:
 Physical form:  
 	- His physical form is a dwarf golem made of adamantium.  
 
- ### Armos & Armis The twin goddesses of the harvest & hunt  
+
+ ### Armos & Armis The twin goddesses of the harvest & hunt
  Sometimes mistakenly referred to as a single deity, the twin sisters Armos and Armis were created in an attempt of collaboration with the Light and Dark. At first they were supposed to be a single deity, but split due to inherent differences in the primordials.  
  Armos is the goddess of the harvest and Armis is the goddess of the hunt. They also share divine providence as both are considered goddesses of fertility and wild animals.  
  They are worshipped by most farmers hunters and wood elves.  
@@ -706,20 +707,23 @@ Marked enemies can be seen through a wall the effect lasts 2 rounds.
 **weight:** 40 lbs.  
 **Magic item:** +1  
 
-Mechanical, made by warforged master (master of arms). +1 maul. Modular maul that can be upgraded with modules made by master warforged smiths. Installing one requires a visit to a master of arms.
+Mechanical, made by warforged master (master of arms). +1 maul. Modular maul that can be upgraded with modules made by master warforged smiths. Installing one requires a visit to a master of arms.  
+
+has a capsule of pressurised steam, recharged by using steam loader.
+Fill the loader with water and air and boil it on high heat. Loader *makes noise* while making steam.  
 
 **Max charges:** *3* charges  
-**Regain:** *1d3* charges at dawn  
+**Regain:** *1d3* charges during long rest if feeder has been setup.  
 
 **Base model:**
-Has a impact head and a small jet engine.  
+Has a impact head and a small steam engine.  
 
 **Slash:** As an action, expand one charge.  
-You swing your maul sideways with the help of the jet engine.  
+You swing your maul sideways with the help of the steam engine.  
 each creature in a 5ft cone in front of you takes *1d6 impact damage*.
 
 **Uppercut:** As an action, expand one charge.  
-You swing your maul upwards with the help of the jet engine.  
+You swing your maul upwards with the help of the steam engine.  
 Target creature within 5 feet of you, takes *2d8 impact damage* and has to succeed a constitution 13 save throw. Failing save stuns the target for one round.
 
 #### Maul modules
@@ -738,11 +742,11 @@ Cannot do ranged attack to a target on melee range
 
 ##### Engines
 
-**Small jet engine:** Base engine, capable of assisting swings with the maul.
+**Small steam engine:** Base engine, capable of assisting swings with the maul.
 
-**Medium jet engine:** Capable of providing more thrust, you can now attack twice with half of the damage on the second swing.
+**Medium steam engine:** Capable of providing more thrust, you can now attack twice with half of the damage on the second swing.
 
-**High-powered jet engine:** Allows your maul to thrust you forward and perform an high impact attack.
+**High-powered steam engine:** Allows your maul to thrust you forward and perform an high impact attack.
 
 
 ### Thunderous battleaxe
@@ -798,7 +802,7 @@ White silk glove, with a small green gesmtone on top of it.
 **Regain:** 1d2 charges on long rest, if in touch with soil or herbs.  
 
 **Greater heal:**  
-When doing any kind of healing spell that targets any other creature exept yourself, you may use *one charge* to add *1d4* to your healing.
+When doing any kind of healing spell that targets any other creature exept yourself, you may use *one charge* to add *1d4* to your healing.  
 
 **Healing herbal mastery II (PASSIVE ABILITY):**  
 Anytime you make a healing potion, add *+x* (where x is your *wisdom modifier*) to the potions healing capability. If the modifier would be negative, disregard this effect. Does not use charges.  
