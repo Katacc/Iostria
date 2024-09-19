@@ -1,4 +1,5 @@
 # Iostria
+A world co-authored by: Katacc and Valttebrick  
 github: https://github.com/Katacc/Iostria  
 
 ![kartta](DD_kartta_pohja.jpg)
