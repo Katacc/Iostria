@@ -687,6 +687,7 @@ A long, black blade made of unknown material, the hilt is ornate and longer than
 The sword acts as a +1 longsword with special ability:
 _**Revenant glory**_  the sword has 3 charges that charge during the night, if under the moonlight. You may use charges up to 3 on a attack performed with a sword. The stacks need to be used before the attack is rolled. - Add +1 to attack roll per stack. Allso deal 1d4 per stack extra damage and heal yourself the same amount
 
+
 ### Longbow of the fallen
 Old, ornate longbow. Shares statsheet of +1 longbow
 
@@ -697,6 +698,7 @@ The bow acts as a +1 longbow and has a special ability:
 _**Fallen angel**_ Once per longrest, you may call down the angel of Zodlios, igniting your arrow with divine radiance. Your bow grows angel wings and you feel your like someone is helping you draw the bowstring. Add +5 to your next attack action to hit with the bow and deal *1d6* extra radiant damage and *mark* your target.
 
 Marked enemies can be seen through a wall the effect lasts 2 rounds.
+
 
 ### Crusader modular maul
 **Damage:** *2d6* bludgeonin  
@@ -742,6 +744,7 @@ Cannot do ranged attack to a target on melee range
 
 **High-powered jet engine:** Allows your maul to thrust you forward and perform an high impact attack.
 
+
 ### Thunderous battleaxe
 
 **Weapon type:** Greataxe  
@@ -754,14 +757,14 @@ Built by Miranda and a legendary magic smith from klarth
 **Max Charges:** Charisma modifier  + 1  
 **Regain:** *1d4* charges during long rest if the guitar is being played  
 
-**Deafening slash:**
+**Deafening slash:**  
 On a succesfull hit, the guitar strings reverberate with a deafening sound. You can unleash **thunderous chord**, dealing additional *1d4 + char modifier* thunder damage to the target and all creatures within 5 feet must succeed a *con* saving throw against your spell save DC. Upon failed save, creature is deafened for 1 minute. **Uses one charge**
 
-**Cleave:**
+**Cleave:**  
 Upon reducing a creature to 0 hit points with this weapon (melee attack), you may use your reaction to cleave through to another enemy within 5 feet, dealing half of the initial damage. **Uses one charge**
 
-**Chords of thunder:**
-You may smash your axe to the ground, summoning lightning upon your area. Each creature in 20feet radius takes *dex* saving throw against your spell save dc. Upon failed save, takes *1d8* thunder damage. **Uses two charges**  tuh
+**Chords of thunder:**  
+You may smash your axe to the ground, summoning lightning upon your area. Each creature in 20feet radius takes *dex* saving throw against your spell save dc. Upon failed save, takes *1d8* thunder damage. **Uses two charges**   
 
 
 ### Sailors amulet
@@ -775,13 +778,30 @@ Amulet, with a ship and trident crossing it carved to the silver base. On top is
 **Max charges:** 3 charges  
 **Regain:** 1d3 charges upon sun rising  
 
-**Sailing winds:**
+**Sailing winds:**  
 Cast modified version of *gust*, wich is able to give ship's sail a push. *Uses one charge*. CANNOT be targeted towards a creature, but can push down certain sized objects.
 
-
-**Luck of the sailor:**
+**Luck of the sailor:**  
 The gods *might* give you an answer you seek...
-Use up *three charges* to ask the Dungeon Master for a hint on what to do. Your question will or will not be answered.
+Use up *three charges* to ask the Dungeon Master for a hint on what to do. Your question will or will not be answered.  
+
+
+### Arch healers glove
+
+**Magic item**
+
+Previously owned by one of the archmages of Stratham magic academy.
+
+White silk glove, with a small green gesmtone on top of it.
+
+**Max charges:** 3 charges  
+**Regain:** 1d2 charges on long rest, if in touch with soil or herbs.  
+
+**Greater heal:**  
+When doing any kind of healing spell that targets any other creature exept yourself, you may use *one charge* to add *1d4* to your healing.
+
+**Healing herbal mastery II (PASSIVE ABILITY):**  
+Anytime you make a healing potion, add *+x* (where x is your *wisdom modifier*) to the potions healing capability. If the modifier would be negative, disregard this effect. Does not use charges.  
 
 
 ## 9 Battles and politics
