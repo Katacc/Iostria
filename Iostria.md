@@ -172,7 +172,7 @@ Physical form:
 	- They often appear as wild animals allthough sometimes when conversing with others, they will take the forms of middle aged wood elf women wearing tribal clothes   
 
 
-## 2 DEATH AND THE GREAT MIST
+## 3 DEATH AND THE GREAT MIST
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -209,7 +209,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 
-## 3 DEMIGODS
+## 4 DEMIGODS
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -252,7 +252,7 @@ They still live in tribes where most of them hunt food and bring it to Yuan-ti�
 Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
-## 4 LARGE CITIES & NOTABLE PLACES
+## 5 LARGE CITIES & NOTABLE PLACES
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -282,20 +282,6 @@ The city’s main entrances are either through the docks or the main gate. Both 
 Airedales economy is based mostly on its large dock district and the exports and imports to and from the other continents. There are also heavy taxes on all sorts of businesses within the city.
 
 Airedales and the whole kingdom's official religion is to the light pantheon of gods and mostly to Zodlios. Other religions aren’t banned in the kingdom but they are often frowned upon and vandalism of churches and other places of worship to the other gods is not uncommon, also there have been rumours that famous supporters of the dark pantheon have been disappearing without trace. Despite this many underground communities of worship to the other gods exist within Airedale and the whole kingdom.
-
-
-### The King
-[Contents](#Contents)
-
-
-The kingdom was ruled by the old King Artorias V, who was a wise and mostly peaceful ruler. The royal family consisted of King Artorias, Queen Priscilla and their son Prince Artorias VI. When the prince was only four years old the Queen became severely ill and after six months of struggle died of her illness. After a while the King got remarried to Queen Sylvia, and had a second son Prince Oceiros. Things were mostly good and the two Princes grew up together. Prince Artorias grew up a fierce warrior who had the respect of the people and of his father the king. Prince Oceiros grew up living in the shadow of his older half-brother and slowly got tired of his brother always getting all the attention and he started to despise him. People called Artorias the future king and this only helped fuel Oceiros’s  secret hatred for him. The Queen also secretly hated Prince Artorias as he was first in line for the throne but she wanted her son to take the throne instead. 
-
-Once Prince Artorias was around 21 years of age and Oceiros was around 16, The king along with Prince Artorias went on a business trip to Stratham. Seeing the opportunity arise the Queen and the younger Prince decided to act. They hired a group of mercenaries to ambush the King's escort near the entrance of the Phantasmal forest. The mercenaries killed everyone but Prince Artorias who was left alive. When the Prince returned to Airedale to tell the news about the King’s death, he found that the Queen and Prince Oceiros both accused him of murdering his father the King. After the news of the Kings death were out, the Queen temperarily gained control of the throne, and used the power to have Prince Artorias publicly accused and shamed for the murder of the King. After this Prince Artorias was exiled for life and Prince Oceiros was declared the new King.
-
-Currently King Oceiros has ruled the kingdom for around a year with his mother Sylvia working as his right hand. They have already started making plans to increase the kingdom's influence all over the continent. Unless they are stopped the continent could be consumed by war.
-
-
-After Prince Artorias and the men few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
 
 
 ### Stratham
@@ -476,9 +462,34 @@ Barataria Bay is the most diverse place in Iostria since creatures from all walk
 There is no official town guard or police force, since it’s more of a place of passersby, merchants and pirates. But don’t think it’s a place where you can do as you please, while it is true that certain laws are a bit more loose in Barataria Bay the laws set by the council are heavily enforced by everyone that lives there, also pretty much everyone here is armed and knows how to fight with a few exceptions of merchants and other folk.
 
  Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
- 
- 
-## 5 Races
+
+
+## 6 Notable people
+
+### King Oceiros
+[Contents](#Contents)
+
+
+The kingdom was ruled by the old King Artorias V, who was a wise and mostly peaceful ruler. The royal family consisted of King Artorias, Queen Priscilla and their son Prince Artorias VI. When the prince was only four years old the Queen became severely ill and after six months of struggle died of her illness. After a while the King got remarried to Queen Sylvia, and had a second son Prince Oceiros. Things were mostly good and the two Princes grew up together. Prince Artorias grew up a fierce warrior who had the respect of the people and of his father the king. Prince Oceiros grew up living in the shadow of his older half-brother and slowly got tired of his brother always getting all the attention and he started to despise him. People called Artorias the future king and this only helped fuel Oceiros’s  secret hatred for him. The Queen also secretly hated Prince Artorias as he was first in line for the throne but she wanted her son to take the throne instead. 
+
+Once Prince Artorias was around 21 years of age and Oceiros was around 16, The king along with Prince Artorias went on a business trip to Stratham. Seeing the opportunity arise the Queen and the younger Prince decided to act. They hired a group of mercenaries to ambush the King's escort near the entrance of the Phantasmal forest. The mercenaries killed everyone but Prince Artorias who was left alive. When the Prince returned to Airedale to tell the news about the King’s death, he found that the Queen and Prince Oceiros both accused him of murdering his father the King. After the news of the Kings death were out, the Queen temperarily gained control of the throne, and used the power to have Prince Artorias publicly accused and shamed for the murder of the King. After this Prince Artorias was exiled for life and Prince Oceiros was declared the new King.
+
+Currently King Oceiros has ruled the kingdom for around a year with his mother Sylvia working as his right hand. They have already started making plans to increase the kingdom's influence all over the continent. Unless they are stopped the continent could be consumed by war.
+
+After Prince Artorias and the few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
+
+### Prince Artorias
+Exiled prince and a step brother for current king Oceiros.
+White haired, 25 year old human male. He is kind and helps people around.
+
+### Aethelred Glimmershield
+The right hand of Artorias. From claton, Black haired, 23 years old nonbinary human. Aethelred likes to read books and play strategic games, usually avoiding conflict and seeking other means.
+
+Aethelred and Artorias met while Artorias was on an incursion in Claton. They played chess together and Artorias often would see their fencing practice. Artorias lost to Aethelred every time at chess and that fueled his desire to befriend Aethelred better. Aethelred's dad was the protector of King Artorias V and therefore Artorias asked Aethelred to become his protector. They developed a semi-romantical affair and nowadays Aethelred is the Prince Artorias'ses protector.
+
+They're dad died while protecting King Artorias V, who also died.
+
+## 7 Races
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -639,7 +650,7 @@ Gnomes lives in vast majority of places depending on their subrace.
 
 
 
-## 6 Monsters
+## 8 Monsters
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -652,7 +663,7 @@ Gnomes lives in vast majority of places depending on their subrace.
 ### Orc
 
 
-## 7 Mechanics
+## 9 Mechanics
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -675,7 +686,7 @@ You have 2 options for using healing potions in combat
 2. Chug the potion fast using bonus action. Roll healing normally.
 
 
-## 8 Magic Items
+## 10 Magic Items
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
@@ -812,7 +823,7 @@ When doing any kind of healing spell that targets any other creature exept yours
 Anytime you make a healing potion, add *+x* (where x is your *wisdom modifier*) to the potions healing capability. If the modifier would be negative, disregard this effect. Does not use charges.  
 
 
-## 9 Battles and politics
+## 11 Battles and politics
 <hr style="margin-top: -2px;">
 
 [Contents](#Contents)
