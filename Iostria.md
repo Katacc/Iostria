@@ -22,6 +22,8 @@ The Light and Dark are primordial beings that are widely regarded as the creator
 As such they both created a pantheon of gods to keep watch over the human population.  
 They are the ultimate creators of all life on Iostria, and as such they both have large tribal followings around Iostria.
 
+
+
 ## 2 The Gods
 <hr style="margin-top: -2px;">
 
@@ -762,6 +764,27 @@ Upon reducing a creature to 0 hit points with this weapon (melee attack), you ma
 
 **Chords of thunder:**
 You may smash your axe to the ground, summoning lightning upon your area. Each creature in 20feet radius takes *dex* saving throw against your spell save dc. Upon failed save, takes *1d8* thunder damage. **Uses two charges**  tuh
+
+
+### Sailors amulet
+
+**Magic item**  
+
+previously owned by old pirate council member, Arberthus.
+
+Amulet, with a ship and trident crossing it carved to the silver base. On top is a blue gem.
+
+**Max charges:** 3 charges  
+**Regain:** 1d3 charges upon sun rising  
+
+**Sailing winds:**
+Cast modified version of *gust*, wich is able to give ship's sail a push. *Uses one charge*. CANNOT be targeted towards a creature, but can push down certain sized objects.
+
+
+**Luck of the sailor:**
+The gods *might* give you an answer you seek...
+Use up *three charges* to ask the Dungeon Master for a hint on what to do. Your question will or will not be answered.
+
 
 ## 9 Battles and politics
 <hr style="margin-top: -2px;">
