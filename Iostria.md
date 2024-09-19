@@ -317,7 +317,7 @@ There are lots of shops and inns in Stratham and you can find every basic equipm
 
 Stratham Magic Academy is a large stone castle on the outskirts of the city, with 4 different buildings for magic wielders, all connected to the big main hall where the leaders reside.
 
-Main Hall
+Main Hall  
 Consist of big catering area, Main hall, Arch mage hall, Big library
 Buildings for mages, sorcerers and scholars
 Each of them consists of Main hall, Library optimised for their corresponding arts, Lots of classrooms, multiple Training halls and rooms for students.
@@ -665,7 +665,7 @@ Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the resul
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
 ### Marshall clash
-During your attack action, after hitting the target, you may challenge the target to a clash, where both combatants gather all their strenght into one blow and try to down each other. Both comabatants roll *1D20* without any modifiers. If tied, the attack has no effect. The losing combatant takes permanent damage(debuff) while taking increased amount of damage. This scales with the difference between the dices, were larger difference equals to more damage and more severe after effects. 
+During your attack action, after hitting the target, you may challenge the target to a clash, where both combatants gather all their strenght into one blow and try to down each other. Both comabatants roll *1d20* without any modifiers. If tied, the attack has no effect. The losing combatant takes permanent damage(debuff) while taking increased amount of damage. This scales with the difference between the dices, were larger difference equals to more damage and more severe after effects. 
 
 You may for example, disable boss abilities or take away enemies body parts. This may happen to you too if you lose.
 
