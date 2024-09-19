@@ -749,6 +749,7 @@ Cannot do ranged attack to a target on melee range
 **High-powered steam engine:** Allows your maul to thrust you forward and perform an high impact attack.
 
 
+
 ### Thunderous battleaxe
 
 **Weapon type:** Greataxe  
@@ -802,7 +803,9 @@ White silk glove, with a small green gesmtone on top of it.
 **Regain:** 1d2 charges on long rest, if in touch with soil or herbs.  
 
 **Greater heal:**  
+
 When doing any kind of healing spell that targets any other creature exept yourself, you may use *one charge* to add *1d4* to your healing.  
+
 
 **Healing herbal mastery II (PASSIVE ABILITY):**  
 Anytime you make a healing potion, add *+x* (where x is your *wisdom modifier*) to the potions healing capability. If the modifier would be negative, disregard this effect. Does not use charges.  
