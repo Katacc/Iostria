@@ -487,7 +487,7 @@ The right hand of Artorias. From claton, Black haired, 23 years old nonbinary hu
 
 Aethelred and Artorias met while Artorias was on an incursion in Claton. They played chess together and Artorias often would see their fencing practice. Artorias lost to Aethelred every time at chess and that fueled his desire to befriend Aethelred better. Aethelred's dad was the protector of King Artorias V and therefore Artorias asked Aethelred to become his protector. They developed a semi-romantical affair and nowadays Aethelred is the Prince Artorias'ses protector.
 
-They're dad died while protecting King Artorias V, who also died.
+Their dad died while protecting King Artorias V, who also died.
 
 ## 7 Races
 <hr style="margin-top: -2px;">
