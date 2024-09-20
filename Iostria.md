@@ -230,7 +230,7 @@ Physical form:
 
 ### Edward 'The undead' Thorn
 
-Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod” df
+Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod”  
 He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.  
   
 Edward is worshipped by most fishermen and pirates. His temple is located on an island near the coast of Barataria bay.  
@@ -487,7 +487,7 @@ The right hand of Artorias. From claton, Black haired, 23 years old nonbinary hu
 
 Aethelred and Artorias met while Artorias was on an incursion in Claton. They played chess together and Artorias often would see their fencing practice. Artorias lost to Aethelred every time at chess and that fueled his desire to befriend Aethelred better. Aethelred's dad was the protector of King Artorias V and therefore Artorias asked Aethelred to become his protector. They developed a semi-romantical affair and nowadays Aethelred is the Prince Artorias'ses protector.
 
-They're dad died while protecting King Artorias V, who also died.
+Their father died while protecting King Artorias V, who also died.
 
 ## 7 Races
 <hr style="margin-top: -2px;">
